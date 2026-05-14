@@ -1,0 +1,45 @@
+{
+  "lectureId": "lecture_12",
+  "partial": false,
+  "checks": [
+    {
+      "id": "lecture_12-lecture-12-evaluation-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+        "Before talking about data, need to talk about what behavior we want from a model.",
+        "Evaluation might appear to be a mechanical process: 1.",
+        "Send prompts to a model and get back responses 3."
+      ],
+      "answer": "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+      "explanation": "This wording is extracted from Lecture 12: evaluation.",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation"
+    },
+    {
+      "id": "lecture_12-what-s-the-point-of-evaluation-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "There is no one true evaluation; it depends on what question you're trying to answer.",
+        "User or company wants to make a purchase decision (model A or model B) for their use case (e.g., customer service chatbots).",
+        "Researchers want to measure the raw capabilities of a model (e.g., intelligence).",
+        "We want to understand the benefits + harms of a model (for business and policy reasons)."
+      ],
+      "answer": "There is no one true evaluation; it depends on what question you're trying to answer.",
+      "explanation": "This wording is extracted from What's the point of evaluation?.",
+      "sectionId": "lecture_12-what-s-the-point-of-evaluation",
+      "sectionTitle": "What's the point of evaluation?"
+    },
+    {
+      "id": "lecture_12-what-are-we-evaluating-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Pre-foundation models, we evaluated methods (standardized train-test splits).\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_12-what-are-we-evaluating",
+      "sectionTitle": "What are we evaluating?"
+    }
+  ]
+}

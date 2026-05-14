@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_09",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_09-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_09-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_09-card-3",
+      "front": "What does this lecture emphasize about seriously?",
+      "back": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "seriously"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_09-card-4",
+      "front": "What does this lecture emphasize about distributed?",
+      "back": "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "distributed"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_09-card-5",
+      "front": "What does this lecture emphasize about framework?",
+      "back": "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "framework"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_09-card-6",
+      "front": "What does this lecture emphasize about pretraining?",
+      "back": "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "pretraining"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_09-card-7",
+      "front": "What does this lecture emphasize about nonlinearity?",
+      "back": "“Emergence” Scaling by compute Speed = accuracy Part 2.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "nonlinearity"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_09-card-8",
+      "front": "What does this lecture emphasize about optimized?",
+      "back": "We could cargo cult things from existing LMs… but how do these get optimized in the first place?",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "optimized"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_09-card-9",
+      "front": "What does this lecture emphasize about predictive?",
+      "back": "Data vs model size Do we train on more data or bigger models?",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "predictive"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_09-card-10",
+      "front": "What does this lecture emphasize about behaviors?",
+      "back": "Neural (LLM) scaling behaviors 1.Data vs performance “Are there simple rules that determine how data affects performance?” 2.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "behaviors"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

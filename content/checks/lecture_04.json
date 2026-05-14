@@ -1,0 +1,21 @@
+{
+  "lectureId": "lecture_04",
+  "partial": true,
+  "checks": [
+    {
+      "id": "lecture_04-extracted-pdf-text-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+        "Linear attention Consider the usual attention operation..",
+        "𝑄 ∈ 𝑅𝑛×𝑑𝑘, 𝐾 ∈ 𝑅𝑛×𝑑𝑘, 𝑉 ∈ 𝑅𝑛×𝑑𝑣 𝐴𝑡𝑡𝑛 𝑄, 𝐾, 𝑉 = 𝜌 𝑄𝐾⊤ 𝑉 This is quadratic due to 𝑄𝐾⊤ (𝑛2𝑑𝑘).",
+        "𝑄𝐾⊤ 𝑉 = 𝑄(𝐾⊤𝑉) This is very silly, but surprisingly important.."
+      ],
+      "answer": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "explanation": "This wording is extracted from Extracted PDF text.",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

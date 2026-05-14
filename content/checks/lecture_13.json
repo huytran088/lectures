@@ -1,0 +1,63 @@
+{
+  "lectureId": "lecture_13",
+  "partial": false,
+  "checks": [
+    {
+      "id": "lecture_13-lecture-13-data-i-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Previous lectures: how to train a model given data Next two lectures: what data should we train on?",
+        "Data is the most important thing to get right in training language models.",
+        "One justification: let's see what companies disclose.",
+        "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data."
+      ],
+      "answer": "Previous lectures: how to train a model given data Next two lectures: what data should we train on?",
+      "explanation": "This wording is extracted from Lecture 13: Data I.",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I"
+    },
+    {
+      "id": "lecture_13-intellectual-property-law-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Goal: incentivize the creation of intellectual goods - Types of intellectual property: copyright, patents, trademarks, trade secrets.\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_13-intellectual-property-law",
+      "sectionTitle": "Intellectual property law"
+    },
+    {
+      "id": "lecture_13-licenses-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "Effectively",
+      "explanation": "Effectively, 'a license is a promise not to sue'.",
+      "sectionId": "lecture_13-licenses",
+      "sectionTitle": "Licenses"
+    },
+    {
+      "id": "lecture_13-lawsuits-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "OpenAI (2023) - Allegation: for training and reproducing NYT articles Authors (Bartz, Graeber, ...) v.",
+        "Statistics: - Every ~month, run a web crawl (add 3-5 billion web pages) - Crawls have some overlap but try to diversify - 300 billion pages so far - How many URLs are there?",
+        "Wikipedia: free online encyclopedia - Random article - Founded in 2001 - As of May 2026, 67 million articles across 361 language editions (English, Spanish, German, French most common) article What is the scope?",
+        "Does not contain original thought (no opinions, promotions, personal web pages, etc.) article - Includes articles based on notability (significant coverage from reliable sources) article Who writes the content?"
+      ],
+      "answer": "OpenAI (2023) - Allegation: for training and reproducing NYT articles Authors (Bartz, Graeber, ...) v.",
+      "explanation": "This wording is extracted from Lawsuits.",
+      "sectionId": "lecture_13-lawsuits",
+      "sectionTitle": "Lawsuits"
+    },
+    {
+      "id": "lecture_13-model-based-filtering-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Fair use of copyrighted content is not settled.\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_13-model-based-filtering",
+      "sectionTitle": "Model-based filtering"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_06",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_06-card-1",
+      "front": "What does this lecture emphasize about high-level?",
+      "back": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "high-level"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_06-card-2",
+      "front": "What does this lecture emphasize about performance?",
+      "back": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "performance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_06-card-3",
+      "front": "What does this lecture emphasize about benchmarking?",
+      "back": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "benchmarking"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_06-card-4",
+      "front": "What does this lecture emphasize about profiling?",
+      "back": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "profiling"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_06-card-5",
+      "front": "What does this lecture emphasize about Accelerator?",
+      "back": "Thread block: a collection of threads that access the same shared memory.",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "accelerator"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_06-card-6",
+      "front": "What does this lecture emphasize about A100?",
+      "back": "Consequently, a thread block is scheduled on one SM.",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "a100"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_06-card-7",
+      "front": "What does this lecture emphasize about H100?",
+      "back": "In Triton, think natively in terms of thread blocks (later).",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "h100"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_06-card-8",
+      "front": "What does this lecture emphasize about B200?",
+      "back": "cutlass: NVIDIA's CUDA library for linear algebra - sm100: corresponds to the NVIDIA Blackwell architecture (B200) - f32: float32 - 64x64x16: tile shape (more on this later) Benchmark and profile your code!",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware",
+      "tags": [
+        "b200"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_06-card-9",
+      "front": "What does this lecture emphasize about HBM?",
+      "back": "Reading/writing from HBM is slow, so use shared memory (local to SM).",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware",
+      "tags": [
+        "hbm"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_06-card-10",
+      "front": "What does this lecture emphasize about bandwidth?",
+      "back": "In practice, performance is very sensitive to the hardware, so need to understand it to obtain high performance.",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware",
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

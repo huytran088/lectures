@@ -1,0 +1,87 @@
+{
+  "lectureId": "lecture_08",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_08-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "The word’s fastest supercomputers have exaflops of compute Limits to GPU-based scaling - memory Models are getting really big..",
+        "A single GPU can’t fit most of these large models!",
+        "Multi-GPU, multi-machine parallelism Intra-node parallelism via high -speed interconnects High-speed inter -node parallelism Split up memory and compute requirements across GPUs and machines But first..",
+        "Some basics about collective communication All reduce Broadcast Reduce All Gather Reduce Scatter Important detail – all reduce vs reduce-scatter-gather."
+      ],
+      "answer": "The word’s fastest supercomputers have exaflops of compute Limits to GPU-based scaling - memory Models are getting really big..",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_08-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "A single GPU can’t fit most of these large models!",
+        "Multi-GPU, multi-machine parallelism Intra-node parallelism via high -speed interconnects High-speed inter -node parallelism Split up memory and compute requirements across GPUs and machines But first..",
+        "Some basics about collective communication All reduce Broadcast Reduce All Gather Reduce Scatter Important detail – all reduce vs reduce-scatter-gather.",
+        "Pro mesh – Cheaper to operate, can be made fast (and just do tensor parallel) Pro tree/A2A – Better for less structured communications (expert parallel) But then things change.."
+      ],
+      "answer": "A single GPU can’t fit most of these large models!",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_08-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Multi-GPU, multi-machine parallelism Intra-node parallelism via high -speed interconnects High-speed inter -node parallelism Split up memory and compute requirements across GPUs and machines But first..",
+        "Some basics about collective communication All reduce Broadcast Reduce All Gather Reduce Scatter Important detail – all reduce vs reduce-scatter-gather.",
+        "Pro mesh – Cheaper to operate, can be made fast (and just do tensor parallel) Pro tree/A2A – Better for less structured communications (expert parallel) But then things change..",
+        "TPU8i/t TPU8i networking – closer to tree-style topologies (maybe for MoEs?) TPU8t scale-out networking – ‘Virgo’ with switched networks Why not connect everything?"
+      ],
+      "answer": "Multi-GPU, multi-machine parallelism Intra-node parallelism via high -speed interconnects High-speed inter -node parallelism Split up memory and compute requirements across GPUs and machines But first..",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_08-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"Some basics about collective communication All reduce Broadcast Reduce All Gather Reduce Scatter Important detail – all reduce vs reduce-scatter-gather.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Extracted PDF text.",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_08-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: Extracted?",
+      "answer": "Extracted",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_08-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: CS336?",
+      "answer": "CS336",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_08-extracted-pdf-text-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "The word’s fastest supercomputers have exaflops of compute Limits to ____ scaling - memory Models are getting really big..",
+      "answer": "GPU-based",
+      "explanation": "The missing phrase appears in Extracted PDF text.",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

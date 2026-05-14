@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_14",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_14-card-1",
+      "front": "What does this lecture emphasize about processed?",
+      "back": "It is HTML, PDF (arxiv), or directories (code repositories).",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "processed"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_14-card-2",
+      "front": "What does this lecture emphasize about Considerations?",
+      "back": "HTML to text (main one): - Remove boilerplate (e.g., navigation, ads) and extract content - What about images, tables, etc.?",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "considerations"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_14-card-3",
+      "front": "What does this lecture emphasize about copyright?",
+      "back": "example page Deduplication training data makes language models better arxiv.org - Train more efficiently (because have fewer tokens) - Avoid memorization (can mitigate copyright, privacy concerns) Design space: 1.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "copyright"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_14-card-4",
+      "front": "What does this lecture emphasize about transformation?",
+      "back": "Estimate some model based on R and T and derive a scoring function 2.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "transformation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_14-card-5",
+      "front": "What does this lecture emphasize about filtering?",
+      "back": "We’d be honored if you can apply some or all of these design in your wedding.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "filtering"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_14-card-6",
+      "front": "What does this lecture emphasize about deduplication?",
+      "back": "example page Deduplication training data makes language models better arxiv.org - Train more efficiently (because have fewer tokens) - Avoid memorization (can mitigate copyright, privacy concerns) Design space: 1.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "deduplication"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_14-card-7",
+      "front": "What does this lecture emphasize about Mid-training?",
+      "back": "example page Deduplication training data makes language models better arxiv.org - Train more efficiently (because have fewer tokens) - Avoid memorization (can mitigate copyright, privacy concerns) Design space: 1.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "mid-training"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_14-card-8",
+      "front": "What does this lecture emphasize about SFT?",
+      "back": "What is an item (sentence, paragraph, document)?",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "sft"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_14-card-9",
+      "front": "What does this lecture emphasize about synthetic?",
+      "back": "How to match (exact match, existence of common subitem, fraction of common subitems)?",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "synthetic"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_14-card-10",
+      "front": "What does this lecture emphasize about HTML?",
+      "back": "It is HTML, PDF (arxiv), or directories (code repositories).",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "html"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

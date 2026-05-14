@@ -1,0 +1,97 @@
+{
+  "lectureId": "lecture_02",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_02-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+        "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+        "In other words: maximize (computational) efficiency.",
+        "Prerequisite: understand the resources (compute, memory) for a given computation."
+      ],
+      "answer": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "explanation": "This statement is drawn from Opening.",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_02-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+        "In other words: maximize (computational) efficiency.",
+        "Prerequisite: understand the resources (compute, memory) for a given computation.",
+        "Question: How long would it take to train a 70B parameter model on 15T tokens on 1024 H100s?"
+      ],
+      "answer": "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+      "explanation": "This statement is drawn from Opening.",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_02-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "In other words: maximize (computational) efficiency.",
+        "Prerequisite: understand the resources (compute, memory) for a given computation.",
+        "Question: How long would it take to train a 70B parameter model on 15T tokens on 1024 H100s?",
+        "Question: What's the largest model that can you can train on 8 H100s using AdamW?"
+      ],
+      "answer": "In other words: maximize (computational) efficiency.",
+      "explanation": "This statement is drawn from Opening.",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_02-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"Prerequisite: understand the resources (compute, memory) for a given computation.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Opening.",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_02-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: Announcements?",
+      "answer": "Announcements",
+      "explanation": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_02-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: CS336?",
+      "answer": "CS336",
+      "explanation": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_02-opening-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "____: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "answer": "Announcements",
+      "explanation": "The missing phrase appears in Opening.",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_02-quiz-code-1",
+      "type": "code-prediction",
+      "prompt": "Which source expression is highlighted for inspection or assertion in this snippet?",
+      "code": "assert x.dtype == torch.float32",
+      "answer": "x.dtype == torch.float32",
+      "explanation": "The answer is taken from the executable lecture source comments or assert expression; the generator does not execute arbitrary lecture code.",
+      "sectionId": "lecture_02-fp32",
+      "sectionTitle": "fp32"
+    }
+  ]
+}

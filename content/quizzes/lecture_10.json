@@ -1,0 +1,97 @@
+{
+  "lectureId": "lecture_10",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_10-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Write Y (B x F) to HBM assert flops == 2BDF assert bytes_transferred == 2BD + 2DF + 2BF Recall that arithmetic intensity is how much compute we do per byte transferred (want to be high).",
+        "Prefill: given a prompt, encode into vectors (parallelizable like in training) 2.",
+        "Generation: generate new response tokens (sequential) Let's compute the FLOPs and memory IO for both the MLP and attention layers.",
+        "S is the number of tokens we're conditioning on, T is the number of tokens we're generating."
+      ],
+      "answer": "Write Y (B x F) to HBM assert flops == 2BDF assert bytes_transferred == 2BD + 2DF + 2BF Recall that arithmetic intensity is how much compute we do per byte transferred (want to be high).",
+      "explanation": "This statement is drawn from Understanding the inference workload.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Prefill: given a prompt, encode into vectors (parallelizable like in training) 2.",
+        "Generation: generate new response tokens (sequential) Let's compute the FLOPs and memory IO for both the MLP and attention layers.",
+        "S is the number of tokens we're conditioning on, T is the number of tokens we're generating.",
+        "Later, we'll specialize to prefill (T = S) and generation (T = 1)."
+      ],
+      "answer": "Prefill: given a prompt, encode into vectors (parallelizable like in training) 2.",
+      "explanation": "This statement is drawn from Understanding the inference workload.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Generation: generate new response tokens (sequential) Let's compute the FLOPs and memory IO for both the MLP and attention layers.",
+        "S is the number of tokens we're conditioning on, T is the number of tokens we're generating.",
+        "Later, we'll specialize to prefill (T = S) and generation (T = 1).",
+        "Read Wup (D x F), Wgate (D x F), Wdown (F x D) from HBM 3."
+      ],
+      "answer": "Generation: generate new response tokens (sequential) Let's compute the FLOPs and memory IO for both the MLP and attention layers.",
+      "explanation": "This statement is drawn from Understanding the inference workload.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"S is the number of tokens we're conditioning on, T is the number of tokens we're generating.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Understanding the inference workload.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: inference?",
+      "answer": "inference",
+      "explanation": "Recall that memory is the bottleneck for inference.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: completion?",
+      "answer": "completion",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-understanding-the-inference-workload-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "Write Y (B x F) to ____ assert flops == 2BDF assert bytes_transferred == 2BD + 2DF + 2BF Recall that arithmetic intensity is how much compute we do per byte transferred (want to be high).",
+      "answer": "HBM",
+      "explanation": "The missing phrase appears in Understanding the inference workload.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-quiz-code-1",
+      "type": "code-prediction",
+      "prompt": "Which source expression is highlighted for inspection or assertion in this snippet?",
+      "code": "assert flops == 2*B*D*F",
+      "answer": "flops == 2*B*D*F",
+      "explanation": "The answer is taken from the executable lecture source comments or assert expression; the generator does not execute arbitrary lecture code.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    }
+  ]
+}

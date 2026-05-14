@@ -1,0 +1,51 @@
+{
+  "lectureId": "lecture_07",
+  "partial": false,
+  "checks": [
+    {
+      "id": "lecture_07-lecture-7-parallelism-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+        "Your parameters (optimizer state + gradients + activations) don't fit on a single GPU.",
+        "You want to use more GPUs (more FLOPs) to train faster."
+      ],
+      "answer": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "explanation": "This wording is extracted from Lecture 7: parallelism.",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism"
+    },
+    {
+      "id": "lecture_07-part-1-building-blocks-of-distributed-communication-computation-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Collective operations are the conceptual primitives used for distributed programming article - These are classic in the parallel programming literature from the 1980s.\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_07-part-1-building-blocks-of-distributed-communication-computation",
+      "sectionTitle": "Part 1: building blocks of distributed communication/computation"
+    },
+    {
+      "id": "lecture_07-nvidia-collective-communication-library-nccl-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "NCCL",
+      "explanation": "NCCL translates collective operations into low-level packets that are sent between GPUs.",
+      "sectionId": "lecture_07-nvidia-collective-communication-library-nccl",
+      "sectionTitle": "NVIDIA Collective Communication Library (NCCL)"
+    },
+    {
+      "id": "lecture_07-part-2-distributed-training-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Walk through bare-bones implementations of each strategy on deep MLPs.",
+        "Recall that MLPs are the compute bottleneck in Transformers, so this is representative."
+      ],
+      "answer": "Walk through bare-bones implementations of each strategy on deep MLPs.",
+      "explanation": "This wording is extracted from Part 2: distributed training.",
+      "sectionId": "lecture_07-part-2-distributed-training",
+      "sectionTitle": "Part 2: distributed training"
+    }
+  ]
+}

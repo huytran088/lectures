@@ -1,0 +1,32 @@
+{
+  "lectureId": "lecture_03",
+  "interactives": [
+    {
+      "id": "lecture_03-js-sandbox",
+      "type": "code-sandbox",
+      "kind": "javascript-worker",
+      "title": "Try It: Browser Sandbox",
+      "description": "Executable JavaScript sandbox generated from extracted lecture concepts. Runs in a disposable Web Worker with a timeout.",
+      "language": "javascript",
+      "code": "const lectureTitle = \"Lecture 03: Extracted PDF text\";\nconst concepts = [\"Extracted\", \"CS336\", \"transformer\", \"implement\", \"variations\"];\n\nconsole.log(`Lecture: ${lectureTitle}`);\nconsole.log(`Concept count: ${concepts.length}`);\n\nconst ranked = concepts\n  .map((concept) => ({ concept, length: concept.length }))\n  .sort((left, right) => right.length - left.length);\n\nconsole.log(ranked.map((item) => `${item.concept} (${item.length})`).join(\", \"));\nreturn ranked;",
+      "expectedOutput": "A ranked list of extracted lecture concepts by string length.",
+      "safeExecution": true,
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_03-token-context",
+      "type": "slider",
+      "kind": "token-context",
+      "title": "Token and Context Length",
+      "description": "Illustrative client-side control generated because `token` appears in the extracted lecture material.",
+      "synthetic": true,
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "min": 1,
+      "max": 100,
+      "default": 40,
+      "unit": "relative units"
+    }
+  ]
+}

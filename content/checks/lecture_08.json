@@ -1,0 +1,21 @@
+{
+  "lectureId": "lecture_08",
+  "partial": true,
+  "checks": [
+    {
+      "id": "lecture_08-extracted-pdf-text-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "The word’s fastest supercomputers have exaflops of compute Limits to GPU-based scaling - memory Models are getting really big..",
+        "A single GPU can’t fit most of these large models!",
+        "Multi-GPU, multi-machine parallelism Intra-node parallelism via high -speed interconnects High-speed inter -node parallelism Split up memory and compute requirements across GPUs and machines But first..",
+        "Some basics about collective communication All reduce Broadcast Reduce All Gather Reduce Scatter Important detail – all reduce vs reduce-scatter-gather."
+      ],
+      "answer": "The word’s fastest supercomputers have exaflops of compute Limits to GPU-based scaling - memory Models are getting really big..",
+      "explanation": "This wording is extracted from Extracted PDF text.",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lectureId": "lecture_10",
+  "interactives": [
+    {
+      "id": "lecture_10-js-sandbox",
+      "type": "code-sandbox",
+      "kind": "javascript-worker",
+      "title": "Try It: Browser Sandbox",
+      "description": "Executable JavaScript sandbox generated from extracted lecture concepts. Runs in a disposable Web Worker with a timeout.",
+      "language": "javascript",
+      "code": "const lectureTitle = \"Lecture 10: inference\";\nconst concepts = [\"inference\", \"completion\", \"processing\", \"evaluation\", \"instruction\"];\n\nconsole.log(`Lecture: ${lectureTitle}`);\nconsole.log(`Concept count: ${concepts.length}`);\n\nconst ranked = concepts\n  .map((concept) => ({ concept, length: concept.length }))\n  .sort((left, right) => right.length - left.length);\n\nconsole.log(ranked.map((item) => `${item.concept} (${item.length})`).join(\", \"));\nreturn ranked;",
+      "expectedOutput": "A ranked list of extracted lecture concepts by string length.",
+      "safeExecution": true,
+      "sectionId": "lecture_10-lecture-10-inference",
+      "sectionTitle": "Lecture 10: inference"
+    },
+    {
+      "id": "lecture_10-token-context",
+      "type": "slider",
+      "kind": "token-context",
+      "title": "Token and Context Length",
+      "description": "Illustrative client-side control generated because `token` appears in the extracted lecture material.",
+      "synthetic": true,
+      "sectionId": "lecture_10-lecture-10-inference",
+      "sectionTitle": "Lecture 10: inference",
+      "min": 1,
+      "max": 100,
+      "default": 40,
+      "unit": "relative units"
+    },
+    {
+      "id": "lecture_10-sandbox-3",
+      "type": "code-sandbox",
+      "kind": "python-placeholder",
+      "title": "Try It: Source Snippet",
+      "description": "Editable static Python snippet. Browser execution is intentionally disabled for extracted Python; copy and run locally if needed.",
+      "language": "python",
+      "code": "assert flops == 2*B*D*F",
+      "expectedOutput": "flops == 2*B*D*F",
+      "safeExecution": false,
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-sandbox-4",
+      "type": "code-sandbox",
+      "kind": "python-placeholder",
+      "title": "Try It: Source Snippet",
+      "description": "Editable static Python snippet. Browser execution is intentionally disabled for extracted Python; copy and run locally if needed.",
+      "language": "python",
+      "code": "assert bytes_transferred == 2*B*D + 2*D*F + 2*B*F",
+      "expectedOutput": "bytes_transferred == 2*B*D + 2*D*F + 2*B*F",
+      "safeExecution": false,
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    }
+  ]
+}

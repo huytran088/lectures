@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_02",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_02-card-1",
+      "front": "What does this lecture emphasize about Announcements?",
+      "back": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "announcements"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_02-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_02-card-3",
+      "front": "What does this lecture emphasize about forecasts?",
+      "back": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "forecasts"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_02-card-4",
+      "front": "What does this lecture emphasize about tokenization?",
+      "back": "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "tokenization"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_02-card-5",
+      "front": "What does this lecture emphasize about accounting?",
+      "back": "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "accounting"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_02-card-6",
+      "front": "What does this lecture emphasize about resources?",
+      "back": "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "resources"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_02-card-7",
+      "front": "What does this lecture emphasize about computational?",
+      "back": "In other words: maximize (computational) efficiency.",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "computational"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_02-card-8",
+      "front": "What does this lecture emphasize about efficiency?",
+      "back": "In other words: maximize (computational) efficiency.",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "efficiency"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_02-card-9",
+      "front": "What does this lecture emphasize about Prerequisite?",
+      "back": "Prerequisite: understand the resources (compute, memory) for a given computation.",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "prerequisite"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_02-card-10",
+      "front": "What does this lecture emphasize about understand?",
+      "back": "Prerequisite: understand the resources (compute, memory) for a given computation.",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "understand"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

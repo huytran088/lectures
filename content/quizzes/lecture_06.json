@@ -1,0 +1,97 @@
+{
+  "lectureId": "lecture_06",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_06-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+        "For elementwise operations (e.g., GeLU), threads are most natural: each thread processes one element.",
+        "f(i) for i = 0, ..., N-1 However, for non-elementwise operations like softmax or matrix multiplication, threads need to communicate.",
+        "Reading/writing from HBM is slow, so use shared memory (local to SM)."
+      ],
+      "answer": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "explanation": "This statement is drawn from Opening.",
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_06-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "For elementwise operations (e.g., GeLU), threads are most natural: each thread processes one element.",
+        "f(i) for i = 0, ..., N-1 However, for non-elementwise operations like softmax or matrix multiplication, threads need to communicate.",
+        "Reading/writing from HBM is slow, so use shared memory (local to SM).",
+        "Thread block: a collection of threads that access the same shared memory."
+      ],
+      "answer": "For elementwise operations (e.g., GeLU), threads are most natural: each thread processes one element.",
+      "explanation": "This statement is drawn from Programming model.",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model"
+    },
+    {
+      "id": "lecture_06-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "f(i) for i = 0, ..., N-1 However, for non-elementwise operations like softmax or matrix multiplication, threads need to communicate.",
+        "Reading/writing from HBM is slow, so use shared memory (local to SM).",
+        "Thread block: a collection of threads that access the same shared memory.",
+        "Consequently, a thread block is scheduled on one SM."
+      ],
+      "answer": "f(i) for i = 0, ..., N-1 However, for non-elementwise operations like softmax or matrix multiplication, threads need to communicate.",
+      "explanation": "This statement is drawn from Programming model.",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model"
+    },
+    {
+      "id": "lecture_06-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"Reading/writing from HBM is slow, so use shared memory (local to SM).\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Programming model.",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model"
+    },
+    {
+      "id": "lecture_06-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: high-level?",
+      "answer": "high-level",
+      "explanation": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_06-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: performance?",
+      "answer": "performance",
+      "explanation": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_06-opening-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "Last lecture: ____ overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "answer": "high-level",
+      "explanation": "The missing phrase appears in Opening.",
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_06-quiz-code-1",
+      "type": "code-prediction",
+      "prompt": "Which source expression is highlighted for inspection or assertion in this snippet?",
+      "code": "assert num_registers_per_thread <= 255",
+      "answer": "num_registers_per_thread <= 255",
+      "explanation": "The answer is taken from the executable lecture source comments or assert expression; the generator does not execute arbitrary lecture code.",
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_03",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_03-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "❖ What are common variations to the architecture / training process?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_03-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Over 19 new dense model releases, many of them with minor architecture tweaks..",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_03-card-3",
+      "front": "What does this lecture emphasize about transformer?",
+      "back": "Many aspects (arch, hparams ) of transformers are in common across the big LMs Major differences?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "transformer"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_03-card-4",
+      "front": "What does this lecture emphasize about implement?",
+      "back": "Let’s look at the data (on dense architectures) Learn from the many other models (and papers) out there We will talk through many major architecture and hyperparameter variants.",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "implement"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_03-card-5",
+      "front": "What does this lecture emphasize about variations?",
+      "back": "❖ What are common variations to the architecture / training process?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "variations"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_03-card-6",
+      "front": "What does this lecture emphasize about architecture?",
+      "back": "❖ What are common variations to the architecture / training process?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "architecture"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_03-card-7",
+      "front": "What does this lecture emphasize about experience?",
+      "back": "Gradient attenuation [ Xiong 2020] Gradient spikes [Salazar and Ngyuen ] Original stated advantage– removing warmup.",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "experience"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_03-card-8",
+      "front": "What does this lecture emphasize about embedding?",
+      "back": "Common architecture variations • Activations, FFN • Attention variants • Position embeddings Hyperparameters that (do or don’t) matter • What is ff_dim?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "embedding"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_03-card-9",
+      "front": "What does this lecture emphasize about FFN?",
+      "back": "Common architecture variations • Activations, FFN • Attention variants • Position embeddings Hyperparameters that (do or don’t) matter • What is ff_dim?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "ffn"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_03-card-10",
+      "front": "What does this lecture emphasize about post-norm?",
+      "back": "I don’t know why this is post -norm) Pre-vs-post-norm, the data Figure from Xiong 2020 Salazar and Ngyuen 2019 Pre-vs-post norm, explanations?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "post-norm"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

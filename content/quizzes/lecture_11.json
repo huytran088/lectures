@@ -1,0 +1,87 @@
+{
+  "lectureId": "lecture_11",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_11-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+        "• Does chinchilla’s approach to scaling actually work?",
+        "• Can we save compute when training and fitting these things?",
+        "• Should we be picking particular architectures / parametrizations to scale nicely?"
+      ],
+      "answer": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_11-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "• Does chinchilla’s approach to scaling actually work?",
+        "• Can we save compute when training and fitting these things?",
+        "• Should we be picking particular architectures / parametrizations to scale nicely?",
+        "Scaling in practice The newest model we talked about with scaling details - 2022 What about more recently?"
+      ],
+      "answer": "• Does chinchilla’s approach to scaling actually work?",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_11-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "• Can we save compute when training and fitting these things?",
+        "• Should we be picking particular architectures / parametrizations to scale nicely?",
+        "Scaling in practice The newest model we talked about with scaling details - 2022 What about more recently?",
+        "2024 2024 2024 2025 2024 2026 Initialization and optimizers Initialization, optimizers, and various hyperparams (LR/batch) can be scale sensitive Working through some detailed, public scaling recipes 1."
+      ],
+      "answer": "• Can we save compute when training and fitting these things?",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_11-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"• Should we be picking particular architectures / parametrizations to scale nicely?\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Extracted PDF text.",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_11-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: Extracted?",
+      "answer": "Extracted",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_11-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: CS336?",
+      "answer": "CS336",
+      "explanation": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_11-extracted-pdf-text-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "Lecture 11 ____ S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "answer": "CS336",
+      "explanation": "The missing phrase appears in Extracted PDF text.",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

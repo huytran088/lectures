@@ -1,0 +1,21 @@
+{
+  "lectureId": "lecture_11",
+  "partial": true,
+  "checks": [
+    {
+      "id": "lecture_11-extracted-pdf-text-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+        "• Does chinchilla’s approach to scaling actually work?",
+        "• Can we save compute when training and fitting these things?",
+        "• Should we be picking particular architectures / parametrizations to scale nicely?"
+      ],
+      "answer": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "explanation": "This wording is extracted from Extracted PDF text.",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "lectureId": "lecture_05",
+  "interactives": [
+    {
+      "id": "lecture_05-js-sandbox",
+      "type": "code-sandbox",
+      "kind": "javascript-worker",
+      "title": "Try It: Browser Sandbox",
+      "description": "Executable JavaScript sandbox generated from extracted lecture concepts. Runs in a disposable Web Worker with a timeout.",
+      "language": "javascript",
+      "code": "const lectureTitle = \"Lecture 05: Extracted PDF text\";\nconst concepts = [\"Extracted\", \"CS336\", \"CUDA\", \"hat-shapes-do-matrix-multiplications\", \"Attention\"];\n\nconsole.log(`Lecture: ${lectureTitle}`);\nconsole.log(`Concept count: ${concepts.length}`);\n\nconst ranked = concepts\n  .map((concept) => ({ concept, length: concept.length }))\n  .sort((left, right) => right.length - left.length);\n\nconsole.log(ranked.map((item) => `${item.concept} (${item.length})`).join(\", \"));\nreturn ranked;",
+      "expectedOutput": "A ranked list of extracted lecture concepts by string length.",
+      "safeExecution": true,
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_05-scaling-law",
+      "type": "slider",
+      "kind": "scaling-law",
+      "title": "Scaling Law",
+      "description": "Illustrative client-side control generated because `scaling` appears in the extracted lecture material.",
+      "synthetic": true,
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "min": 1,
+      "max": 100,
+      "default": 40,
+      "unit": "relative units"
+    }
+  ]
+}

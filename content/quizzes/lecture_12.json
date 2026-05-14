@@ -1,0 +1,87 @@
+{
+  "lectureId": "lecture_12",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_12-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+        "Before talking about data, need to talk about what behavior we want from a model.",
+        "Evaluation might appear to be a mechanical process: 1.",
+        "Send prompts to a model and get back responses 3."
+      ],
+      "answer": "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+      "explanation": "This statement is drawn from Lecture 12: evaluation.",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation"
+    },
+    {
+      "id": "lecture_12-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Before talking about data, need to talk about what behavior we want from a model.",
+        "Evaluation might appear to be a mechanical process: 1.",
+        "Send prompts to a model and get back responses 3.",
+        "Compute accuracy But actually, evaluation is a deep and important topic..."
+      ],
+      "answer": "Before talking about data, need to talk about what behavior we want from a model.",
+      "explanation": "This statement is drawn from Lecture 12: evaluation.",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation"
+    },
+    {
+      "id": "lecture_12-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Evaluation might appear to be a mechanical process: 1.",
+        "Send prompts to a model and get back responses 3.",
+        "Compute accuracy But actually, evaluation is a deep and important topic...",
+        "Core challenge: abstract construct → concrete metric Maybe a model is good if it does well on benchmarks..."
+      ],
+      "answer": "Evaluation might appear to be a mechanical process: 1.",
+      "explanation": "This statement is drawn from Lecture 12: evaluation.",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation"
+    },
+    {
+      "id": "lecture_12-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"Send prompts to a model and get back responses 3.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Lecture 12: evaluation.",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation"
+    },
+    {
+      "id": "lecture_12-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: everything?",
+      "answer": "everything",
+      "explanation": "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation"
+    },
+    {
+      "id": "lecture_12-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: architecture?",
+      "answer": "architecture",
+      "explanation": "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation"
+    },
+    {
+      "id": "lecture_12-lecture-12-evaluation-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "So far: we've covered ____ for training an LM (architecture, training, systems, scaling).",
+      "answer": "everything",
+      "explanation": "The missing phrase appears in Lecture 12: evaluation.",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation"
+    }
+  ]
+}

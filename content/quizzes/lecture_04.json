@@ -1,0 +1,87 @@
+{
+  "lectureId": "lecture_04",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_04-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+        "Linear attention Consider the usual attention operation..",
+        "𝑄 ∈ 𝑅𝑛×𝑑𝑘, 𝐾 ∈ 𝑅𝑛×𝑑𝑘, 𝑉 ∈ 𝑅𝑛×𝑑𝑣 𝐴𝑡𝑡𝑛 𝑄, 𝐾, 𝑉 = 𝜌 𝑄𝐾⊤ 𝑉 This is quadratic due to 𝑄𝐾⊤ (𝑛2𝑑𝑘).",
+        "𝑄𝐾⊤ 𝑉 = 𝑄(𝐾⊤𝑉) This is very silly, but surprisingly important.."
+      ],
+      "answer": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_04-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Linear attention Consider the usual attention operation..",
+        "𝑄 ∈ 𝑅𝑛×𝑑𝑘, 𝐾 ∈ 𝑅𝑛×𝑑𝑘, 𝑉 ∈ 𝑅𝑛×𝑑𝑣 𝐴𝑡𝑡𝑛 𝑄, 𝐾, 𝑉 = 𝜌 𝑄𝐾⊤ 𝑉 This is quadratic due to 𝑄𝐾⊤ (𝑛2𝑑𝑘).",
+        "𝑄𝐾⊤ 𝑉 = 𝑄(𝐾⊤𝑉) This is very silly, but surprisingly important..",
+        "We get from 𝑛2𝑑𝑘 + 𝑛2𝑑𝑣 to 2𝑛𝑑𝑣𝑑𝑘 [Shen et al 2018, Katharopoulos 2020 for kernel version."
+      ],
+      "answer": "Linear attention Consider the usual attention operation..",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_04-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "𝑄 ∈ 𝑅𝑛×𝑑𝑘, 𝐾 ∈ 𝑅𝑛×𝑑𝑘, 𝑉 ∈ 𝑅𝑛×𝑑𝑣 𝐴𝑡𝑡𝑛 𝑄, 𝐾, 𝑉 = 𝜌 𝑄𝐾⊤ 𝑉 This is quadratic due to 𝑄𝐾⊤ (𝑛2𝑑𝑘).",
+        "𝑄𝐾⊤ 𝑉 = 𝑄(𝐾⊤𝑉) This is very silly, but surprisingly important..",
+        "We get from 𝑛2𝑑𝑘 + 𝑛2𝑑𝑣 to 2𝑛𝑑𝑣𝑑𝑘 [Shen et al 2018, Katharopoulos 2020 for kernel version.",
+        "Performance (generally) seems strong, and they show linear scaling in context length From linear attention to Mamba -2 Let’s generalize linear attention a little bit and add per -position weights.."
+      ],
+      "answer": "𝑄 ∈ 𝑅𝑛×𝑑𝑘, 𝐾 ∈ 𝑅𝑛×𝑑𝑘, 𝑉 ∈ 𝑅𝑛×𝑑𝑣 𝐴𝑡𝑡𝑛 𝑄, 𝐾, 𝑉 = 𝜌 𝑄𝐾⊤ 𝑉 This is quadratic due to 𝑄𝐾⊤ (𝑛2𝑑𝑘).",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_04-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"𝑄𝐾⊤ 𝑉 = 𝑄(𝐾⊤𝑉) This is very silly, but surprisingly important..\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Extracted PDF text.",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_04-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: Extracted?",
+      "answer": "Extracted",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_04-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: CS336?",
+      "answer": "CS336",
+      "explanation": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_04-extracted-pdf-text-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "Lecture 4 ____ Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "answer": "CS336",
+      "explanation": "The missing phrase appears in Extracted PDF text.",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

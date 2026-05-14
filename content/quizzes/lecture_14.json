@@ -1,0 +1,97 @@
+{
+  "lectureId": "lecture_14",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_14-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "It is HTML, PDF (arxiv), or directories (code repositories).",
+        "HTML to text (main one): - Remove boilerplate (e.g., navigation, ads) and extract content - What about images, tables, etc.?",
+        "Inherently lossy (need to linearize) - Tools (rule-based): trafilatura, resiliparse, jusText, lynx, etc.",
+        "Estimate some model based on R and T and derive a scoring function 2."
+      ],
+      "answer": "It is HTML, PDF (arxiv), or directories (code repositories).",
+      "explanation": "This statement is drawn from Lecture 14: Data II.",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "HTML to text (main one): - Remove boilerplate (e.g., navigation, ads) and extract content - What about images, tables, etc.?",
+        "Inherently lossy (need to linearize) - Tools (rule-based): trafilatura, resiliparse, jusText, lynx, etc.",
+        "Estimate some model based on R and T and derive a scoring function 2.",
+        "We’d be honored if you can apply some or all of these design in your wedding."
+      ],
+      "answer": "HTML to text (main one): - Remove boilerplate (e.g., navigation, ads) and extract content - What about images, tables, etc.?",
+      "explanation": "This statement is drawn from Lecture 14: Data II.",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Inherently lossy (need to linearize) - Tools (rule-based): trafilatura, resiliparse, jusText, lynx, etc.",
+        "Estimate some model based on R and T and derive a scoring function 2.",
+        "We’d be honored if you can apply some or all of these design in your wedding.",
+        "believe me, brilliant ideas would be perfect if it can be applied in real and make the people around you amazed!"
+      ],
+      "answer": "Inherently lossy (need to linearize) - Tools (rule-based): trafilatura, resiliparse, jusText, lynx, etc.",
+      "explanation": "This statement is drawn from Lecture 14: Data II.",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"Estimate some model based on R and T and derive a scoring function 2.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Lecture 14: Data II.",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: processed?",
+      "answer": "processed",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: Considerations?",
+      "answer": "Considerations",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-lecture-14-data-ii-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "It is ____, PDF (arxiv), or directories (code repositories).",
+      "answer": "HTML",
+      "explanation": "The missing phrase appears in Lecture 14: Data II.",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-quiz-code-1",
+      "type": "code-prediction",
+      "prompt": "Which source expression is highlighted for inspection or assertion in this snippet?",
+      "code": "def compute_jaccard(A, B):\n        intersection = len(A & B)  # @inspect intersection\n        union = len(A | B)  # @inspect union\n        return intersection / union",
+      "answer": "intersection",
+      "explanation": "The answer is taken from the executable lecture source comments or assert expression; the generator does not execute arbitrary lecture code.",
+      "sectionId": "lecture_14-jaccard-similarity",
+      "sectionTitle": "Jaccard similarity"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_11",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_11-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_11-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_11-card-3",
+      "front": "What does this lecture emphasize about Motivation?",
+      "back": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "motivation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_11-card-4",
+      "front": "What does this lecture emphasize about practices?",
+      "back": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "practices"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_11-card-5",
+      "front": "What does this lecture emphasize about chinchilla?",
+      "back": "• Does chinchilla’s approach to scaling actually work?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "chinchilla"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_11-card-6",
+      "front": "What does this lecture emphasize about particular?",
+      "back": "• Should we be picking particular architectures / parametrizations to scale nicely?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "particular"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_11-card-7",
+      "front": "What does this lecture emphasize about architectures?",
+      "back": "• Should we be picking particular architectures / parametrizations to scale nicely?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "architectures"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_11-card-8",
+      "front": "What does this lecture emphasize about parametrizations?",
+      "back": "• Should we be picking particular architectures / parametrizations to scale nicely?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "parametrizations"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_11-card-9",
+      "front": "What does this lecture emphasize about Initialization?",
+      "back": "2024 2024 2024 2025 2024 2026 Initialization and optimizers Initialization, optimizers, and various hyperparams (LR/batch) can be scale sensitive Working through some detailed, public scaling recipes 1.",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "initialization"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_11-card-10",
+      "front": "What does this lecture emphasize about optimizers?",
+      "back": "2024 2024 2024 2025 2024 2026 Initialization and optimizers Initialization, optimizers, and various hyperparams (LR/batch) can be scale sensitive Working through some detailed, public scaling recipes 1.",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "optimizers"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

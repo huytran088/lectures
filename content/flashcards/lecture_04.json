@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_04",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_04-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_04-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_04-card-3",
+      "front": "What does this lecture emphasize about Attention?",
+      "back": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "attention"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_04-card-4",
+      "front": "What does this lecture emphasize about alternatives?",
+      "back": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "alternatives"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_04-card-5",
+      "front": "What does this lecture emphasize about understanding-the-imp?",
+      "back": "We get from 𝑛2𝑑𝑘 + 𝑛2𝑑𝑣 to 2𝑛𝑑𝑣𝑑𝑘 [Shen et al 2018, Katharopoulos 2020 for kernel version.",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "understanding-the-imp"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_04-card-6",
+      "front": "What does this lecture emphasize about act-of-increasing-llm-context-windows?",
+      "back": "Performance (generally) seems strong, and they show linear scaling in context length From linear attention to Mamba -2 Let’s generalize linear attention a little bit and add per -position weights..",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "act-of-increasing-llm-context-windows"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_04-card-7",
+      "front": "What does this lecture emphasize about engineering?",
+      "back": "Qwen 3.5 / Qwen Next The newest qwen are 3-1 GDN / Attention hybrids.",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "engineering"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_04-card-8",
+      "front": "What does this lecture emphasize about potentially?",
+      "back": "Replace big feedforward with (many) big feedforward networks and a selector layer You can increase the # experts without affecting FLOPs [Fedus et al 2022] Why are MoEs getting popular?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "potentially"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_04-card-9",
+      "front": "What does this lecture emphasize about operation?",
+      "back": "Linear attention Consider the usual attention operation..",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "operation"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_04-card-10",
+      "front": "What does this lecture emphasize about quadratic?",
+      "back": "𝑄 ∈ 𝑅𝑛×𝑑𝑘, 𝐾 ∈ 𝑅𝑛×𝑑𝑘, 𝑉 ∈ 𝑅𝑛×𝑑𝑣 𝐴𝑡𝑡𝑛 𝑄, 𝐾, 𝑉 = 𝜌 𝑄𝐾⊤ 𝑉 This is quadratic due to 𝑄𝐾⊤ (𝑛2𝑑𝑘).",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "quadratic"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

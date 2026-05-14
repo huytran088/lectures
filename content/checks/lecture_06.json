@@ -1,0 +1,42 @@
+{
+  "lectureId": "lecture_06",
+  "partial": false,
+  "checks": [
+    {
+      "id": "lecture_06-opening-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels"
+      ],
+      "answer": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "explanation": "This wording is extracted from Opening.",
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_06-programming-model-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "concurrent",
+      "explanation": "`concurrent` is extracted from this section.",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model"
+    },
+    {
+      "id": "lecture_06-interaction-between-programming-model-and-hardware-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Programming model provides an abstraction of the hardware.",
+        "In principle, don't need to think about anything else (for correctness).",
+        "In practice, performance is very sensitive to the hardware, so need to understand it to obtain high performance.",
+        "Warps: - Within a thread block, threads are grouped into warps (32 threads per warp)."
+      ],
+      "answer": "Programming model provides an abstraction of the hardware.",
+      "explanation": "This wording is extracted from Interaction between programming model and hardware.",
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware"
+    }
+  ]
+}

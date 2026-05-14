@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_07",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_07-card-1",
+      "front": "What does this lecture emphasize about parallelism?",
+      "back": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism",
+      "tags": [
+        "parallelism"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_07-card-2",
+      "front": "What does this lecture emphasize about GPU?",
+      "back": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism",
+      "tags": [
+        "gpu"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_07-card-3",
+      "front": "What does this lecture emphasize about arithmetic?",
+      "back": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism",
+      "tags": [
+        "arithmetic"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_07-card-4",
+      "front": "What does this lecture emphasize about orchestrate?",
+      "back": "Collective operations are the conceptual primitives used for distributed programming article - These are classic in the parallel programming literature from the 1980s.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-1-building-blocks-of-distributed-communication-computation",
+      "sectionTitle": "Part 1: building blocks of distributed communication/computation",
+      "tags": [
+        "orchestrate"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_07-card-5",
+      "front": "What does this lecture emphasize about computation?",
+      "back": "Collective means that you specify a general communication pattern across many devices.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-1-building-blocks-of-distributed-communication-computation",
+      "sectionTitle": "Part 1: building blocks of distributed communication/computation",
+      "tags": [
+        "computation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_07-card-6",
+      "front": "What does this lecture emphasize about bottlenecks?",
+      "back": "This can be better/faster than managing point-to-point communication yourself.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-1-building-blocks-of-distributed-communication-computation",
+      "sectionTitle": "Part 1: building blocks of distributed communication/computation",
+      "tags": [
+        "bottlenecks"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_07-card-7",
+      "front": "What does this lecture emphasize about Generalized?",
+      "back": "NCCL translates collective operations into low-level packets that are sent between GPUs.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-nvidia-collective-communication-library-nccl",
+      "sectionTitle": "NVIDIA Collective Communication Library (NCCL)",
+      "tags": [
+        "generalized"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_07-card-8",
+      "front": "What does this lecture emphasize about hierarchy?",
+      "back": "References: How to reason about collective operations Sample benchmarking code",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-nvidia-collective-communication-library-nccl",
+      "sectionTitle": "NVIDIA Collective Communication Library (NCCL)",
+      "tags": [
+        "hierarchy"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_07-card-9",
+      "front": "What does this lecture emphasize about HBM?",
+      "back": "Walk through bare-bones implementations of each strategy on deep MLPs.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-2-distributed-training",
+      "sectionTitle": "Part 2: distributed training",
+      "tags": [
+        "hbm"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_07-card-10",
+      "front": "What does this lecture emphasize about multi-GPU?",
+      "back": "Recall that MLPs are the compute bottleneck in Transformers, so this is representative.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-2-distributed-training",
+      "sectionTitle": "Part 2: distributed training",
+      "tags": [
+        "multi-gpu"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

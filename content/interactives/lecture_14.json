@@ -1,0 +1,58 @@
+{
+  "lectureId": "lecture_14",
+  "interactives": [
+    {
+      "id": "lecture_14-js-sandbox",
+      "type": "code-sandbox",
+      "kind": "javascript-worker",
+      "title": "Try It: Browser Sandbox",
+      "description": "Executable JavaScript sandbox generated from extracted lecture concepts. Runs in a disposable Web Worker with a timeout.",
+      "language": "javascript",
+      "code": "const lectureTitle = \"Lecture 14: Data II\";\nconst concepts = [\"processed\", \"Considerations\", \"copyright\", \"transformation\", \"filtering\"];\n\nconsole.log(`Lecture: ${lectureTitle}`);\nconsole.log(`Concept count: ${concepts.length}`);\n\nconst ranked = concepts\n  .map((concept) => ({ concept, length: concept.length }))\n  .sort((left, right) => right.length - left.length);\n\nconsole.log(ranked.map((item) => `${item.concept} (${item.length})`).join(\", \"));\nreturn ranked;",
+      "expectedOutput": "A ranked list of extracted lecture concepts by string length.",
+      "safeExecution": true,
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-token-context",
+      "type": "slider",
+      "kind": "token-context",
+      "title": "Token and Context Length",
+      "description": "Illustrative client-side control generated because `token` appears in the extracted lecture material.",
+      "synthetic": true,
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "min": 1,
+      "max": 100,
+      "default": 40,
+      "unit": "relative units"
+    },
+    {
+      "id": "lecture_14-sandbox-3",
+      "type": "code-sandbox",
+      "kind": "python-placeholder",
+      "title": "Try It: Source Snippet",
+      "description": "Editable static Python snippet. Browser execution is intentionally disabled for extracted Python; copy and run locally if needed.",
+      "language": "python",
+      "code": "def compute_jaccard(A, B):\n        intersection = len(A & B)  # @inspect intersection\n        union = len(A | B)  # @inspect union\n        return intersection / union",
+      "expectedOutput": "intersection",
+      "safeExecution": false,
+      "sectionId": "lecture_14-jaccard-similarity",
+      "sectionTitle": "Jaccard similarity"
+    },
+    {
+      "id": "lecture_14-sandbox-4",
+      "type": "code-sandbox",
+      "kind": "python-placeholder",
+      "title": "Try It: Source Snippet",
+      "description": "Editable static Python snippet. Browser execution is intentionally disabled for extracted Python; copy and run locally if needed.",
+      "language": "python",
+      "code": "assert abs(estimated_jaccard - jaccard) < 0.01",
+      "expectedOutput": "abs(estimated_jaccard - jaccard) < 0.01",
+      "safeExecution": false,
+      "sectionId": "lecture_14-minhash",
+      "sectionTitle": "MinHash"
+    }
+  ]
+}

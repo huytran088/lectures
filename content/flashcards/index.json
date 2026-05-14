@@ -1,0 +1,1685 @@
+{
+  "cards": [
+    {
+      "id": "lecture_01-card-1",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Lectures from 2nd offering (Spring 2025) are on YouTube.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_01-card-2",
+      "front": "What does this lecture emphasize about philosophy?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)",
+      "tags": [
+        "philosophy"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_01-card-3",
+      "front": "What does this lecture emphasize about Prioritize?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "prioritize"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_01-card-4",
+      "front": "What does this lecture emphasize about value-per-time?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "value-per-time"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_01-card-5",
+      "front": "What does this lecture emphasize about ingredients?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "ingredients"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_01-card-6",
+      "front": "What does this lecture emphasize about long-context?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "long-context"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_01-card-7",
+      "front": "What does this lecture emphasize about researchers?",
+      "back": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "researchers"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_01-card-8",
+      "front": "What does this lecture emphasize about disconnected?",
+      "back": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "disconnected"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_01-card-9",
+      "front": "What does this lecture emphasize about underlying?",
+      "back": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "underlying"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_01-card-10",
+      "front": "What does this lecture emphasize about technology?",
+      "back": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "technology"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_02-card-1",
+      "front": "What does this lecture emphasize about Announcements?",
+      "back": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "announcements"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_02-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_02-card-3",
+      "front": "What does this lecture emphasize about forecasts?",
+      "back": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "forecasts"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_02-card-4",
+      "front": "What does this lecture emphasize about tokenization?",
+      "back": "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "tokenization"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_02-card-5",
+      "front": "What does this lecture emphasize about accounting?",
+      "back": "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "accounting"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_02-card-6",
+      "front": "What does this lecture emphasize about resources?",
+      "back": "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "resources"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_02-card-7",
+      "front": "What does this lecture emphasize about computational?",
+      "back": "In other words: maximize (computational) efficiency.",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "computational"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_02-card-8",
+      "front": "What does this lecture emphasize about efficiency?",
+      "back": "In other words: maximize (computational) efficiency.",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "efficiency"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_02-card-9",
+      "front": "What does this lecture emphasize about Prerequisite?",
+      "back": "Prerequisite: understand the resources (compute, memory) for a given computation.",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "prerequisite"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_02-card-10",
+      "front": "What does this lecture emphasize about understand?",
+      "back": "Prerequisite: understand the resources (compute, memory) for a given computation.",
+      "lectureId": "lecture_02",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "understand"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_03-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "❖ What are common variations to the architecture / training process?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_03-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Over 19 new dense model releases, many of them with minor architecture tweaks..",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_03-card-3",
+      "front": "What does this lecture emphasize about transformer?",
+      "back": "Many aspects (arch, hparams ) of transformers are in common across the big LMs Major differences?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "transformer"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_03-card-4",
+      "front": "What does this lecture emphasize about implement?",
+      "back": "Let’s look at the data (on dense architectures) Learn from the many other models (and papers) out there We will talk through many major architecture and hyperparameter variants.",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "implement"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_03-card-5",
+      "front": "What does this lecture emphasize about variations?",
+      "back": "❖ What are common variations to the architecture / training process?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "variations"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_03-card-6",
+      "front": "What does this lecture emphasize about architecture?",
+      "back": "❖ What are common variations to the architecture / training process?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "architecture"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_03-card-7",
+      "front": "What does this lecture emphasize about experience?",
+      "back": "Gradient attenuation [ Xiong 2020] Gradient spikes [Salazar and Ngyuen ] Original stated advantage– removing warmup.",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "experience"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_03-card-8",
+      "front": "What does this lecture emphasize about embedding?",
+      "back": "Common architecture variations • Activations, FFN • Attention variants • Position embeddings Hyperparameters that (do or don’t) matter • What is ff_dim?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "embedding"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_03-card-9",
+      "front": "What does this lecture emphasize about FFN?",
+      "back": "Common architecture variations • Activations, FFN • Attention variants • Position embeddings Hyperparameters that (do or don’t) matter • What is ff_dim?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "ffn"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_03-card-10",
+      "front": "What does this lecture emphasize about post-norm?",
+      "back": "I don’t know why this is post -norm) Pre-vs-post-norm, the data Figure from Xiong 2020 Salazar and Ngyuen 2019 Pre-vs-post norm, explanations?",
+      "lectureId": "lecture_03",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "post-norm"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_04-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_04-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_04-card-3",
+      "front": "What does this lecture emphasize about Attention?",
+      "back": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "attention"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_04-card-4",
+      "front": "What does this lecture emphasize about alternatives?",
+      "back": "Lecture 4 CS336 Tatsu H AT T E N T I O N A LT E R N AT I V E S A N D M I X T U R E S OF E X P E R T S Attention alternatives Cost of attention rises with large context sizes… how do we control those costs?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "alternatives"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_04-card-5",
+      "front": "What does this lecture emphasize about understanding-the-imp?",
+      "back": "We get from 𝑛2𝑑𝑘 + 𝑛2𝑑𝑣 to 2𝑛𝑑𝑣𝑑𝑘 [Shen et al 2018, Katharopoulos 2020 for kernel version.",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "understanding-the-imp"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_04-card-6",
+      "front": "What does this lecture emphasize about act-of-increasing-llm-context-windows?",
+      "back": "Performance (generally) seems strong, and they show linear scaling in context length From linear attention to Mamba -2 Let’s generalize linear attention a little bit and add per -position weights..",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "act-of-increasing-llm-context-windows"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_04-card-7",
+      "front": "What does this lecture emphasize about engineering?",
+      "back": "Qwen 3.5 / Qwen Next The newest qwen are 3-1 GDN / Attention hybrids.",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "engineering"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_04-card-8",
+      "front": "What does this lecture emphasize about potentially?",
+      "back": "Replace big feedforward with (many) big feedforward networks and a selector layer You can increase the # experts without affecting FLOPs [Fedus et al 2022] Why are MoEs getting popular?",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "potentially"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_04-card-9",
+      "front": "What does this lecture emphasize about operation?",
+      "back": "Linear attention Consider the usual attention operation..",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "operation"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_04-card-10",
+      "front": "What does this lecture emphasize about quadratic?",
+      "back": "𝑄 ∈ 𝑅𝑛×𝑑𝑘, 𝐾 ∈ 𝑅𝑛×𝑑𝑘, 𝑉 ∈ 𝑅𝑛×𝑑𝑣 𝐴𝑡𝑡𝑛 𝑄, 𝐾, 𝑉 = 𝜌 𝑄𝐾⊤ 𝑉 This is quadratic due to 𝑄𝐾⊤ (𝑛2𝑑𝑘).",
+      "lectureId": "lecture_04",
+      "sectionId": "lecture_04-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "quadratic"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_05-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "Substantial credit goes to a few sources that I’d like to highlight..",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_05-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Early on – Dennard scaing But the traditional form of scaling ( Dennard scaling ) from 1980 -2000s has tapped out.",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_05-card-3",
+      "front": "What does this lecture emphasize about CUDA?",
+      "back": "How do we feed LLMs’ insatiable appetite for compute?",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cuda"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_05-card-4",
+      "front": "What does this lecture emphasize about hat-shapes-do-matrix-multiplications?",
+      "back": "Parallel scaling continues Parallel scaling with GPUs has scaled > 1000x in 10 years.",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "hat-shapes-do-matrix-multiplications"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_05-card-5",
+      "front": "What does this lecture emphasize about Attention?",
+      "back": "There is no LLM scaling without GPU scaling Bill dally, HotChips keynote How is a GPU different from a CPU?",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "attention"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_05-card-6",
+      "front": "What does this lecture emphasize about Understand?",
+      "back": "This section is from https://www.thonking.ai/p/what -shapes-do-matrix-multiplications Matrix mystery We understand some of this (compute intensity, tiling).",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "understand"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_05-card-7",
+      "front": "What does this lecture emphasize about algorithms?",
+      "back": "Anatomy of a GPU (memory) The closer the memory to the SM, the faster it is – L1 and shared memory is inside the SM.",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "algorithms"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_05-card-8",
+      "front": "What does this lecture emphasize about Substantial?",
+      "back": "Substantial credit goes to a few sources that I’d like to highlight..",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "substantial"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_05-card-9",
+      "front": "What does this lecture emphasize about highlight?",
+      "back": "Substantial credit goes to a few sources that I’d like to highlight..",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "highlight"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_05-card-10",
+      "front": "What does this lecture emphasize about including?",
+      "back": "Memory model of a GPU Each thread can access its own register, and shared memory within the block.",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "including"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_06-card-1",
+      "front": "What does this lecture emphasize about high-level?",
+      "back": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening",
+      "tags": [
+        "high-level"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_06-card-2",
+      "front": "What does this lecture emphasize about performance?",
+      "back": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "performance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_06-card-3",
+      "front": "What does this lecture emphasize about benchmarking?",
+      "back": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "benchmarking"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_06-card-4",
+      "front": "What does this lecture emphasize about profiling?",
+      "back": "Last lecture: high-level overview of GPUs and performance This lecture: benchmarking/profiling + writing kernels",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "profiling"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_06-card-5",
+      "front": "What does this lecture emphasize about Accelerator?",
+      "back": "Thread block: a collection of threads that access the same shared memory.",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "accelerator"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_06-card-6",
+      "front": "What does this lecture emphasize about A100?",
+      "back": "Consequently, a thread block is scheduled on one SM.",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "a100"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_06-card-7",
+      "front": "What does this lecture emphasize about H100?",
+      "back": "In Triton, think natively in terms of thread blocks (later).",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-programming-model",
+      "sectionTitle": "Programming model",
+      "tags": [
+        "h100"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_06-card-8",
+      "front": "What does this lecture emphasize about B200?",
+      "back": "cutlass: NVIDIA's CUDA library for linear algebra - sm100: corresponds to the NVIDIA Blackwell architecture (B200) - f32: float32 - 64x64x16: tile shape (more on this later) Benchmark and profile your code!",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware",
+      "tags": [
+        "b200"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_06-card-9",
+      "front": "What does this lecture emphasize about HBM?",
+      "back": "Reading/writing from HBM is slow, so use shared memory (local to SM).",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware",
+      "tags": [
+        "hbm"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_06-card-10",
+      "front": "What does this lecture emphasize about bandwidth?",
+      "back": "In practice, performance is very sensitive to the hardware, so need to understand it to obtain high performance.",
+      "lectureId": "lecture_06",
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware",
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_07-card-1",
+      "front": "What does this lecture emphasize about parallelism?",
+      "back": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism",
+      "tags": [
+        "parallelism"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_07-card-2",
+      "front": "What does this lecture emphasize about GPU?",
+      "back": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism",
+      "tags": [
+        "gpu"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_07-card-3",
+      "front": "What does this lecture emphasize about arithmetic?",
+      "back": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism",
+      "tags": [
+        "arithmetic"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_07-card-4",
+      "front": "What does this lecture emphasize about orchestrate?",
+      "back": "Collective operations are the conceptual primitives used for distributed programming article - These are classic in the parallel programming literature from the 1980s.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-1-building-blocks-of-distributed-communication-computation",
+      "sectionTitle": "Part 1: building blocks of distributed communication/computation",
+      "tags": [
+        "orchestrate"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_07-card-5",
+      "front": "What does this lecture emphasize about computation?",
+      "back": "Collective means that you specify a general communication pattern across many devices.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-1-building-blocks-of-distributed-communication-computation",
+      "sectionTitle": "Part 1: building blocks of distributed communication/computation",
+      "tags": [
+        "computation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_07-card-6",
+      "front": "What does this lecture emphasize about bottlenecks?",
+      "back": "This can be better/faster than managing point-to-point communication yourself.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-1-building-blocks-of-distributed-communication-computation",
+      "sectionTitle": "Part 1: building blocks of distributed communication/computation",
+      "tags": [
+        "bottlenecks"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_07-card-7",
+      "front": "What does this lecture emphasize about Generalized?",
+      "back": "NCCL translates collective operations into low-level packets that are sent between GPUs.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-nvidia-collective-communication-library-nccl",
+      "sectionTitle": "NVIDIA Collective Communication Library (NCCL)",
+      "tags": [
+        "generalized"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_07-card-8",
+      "front": "What does this lecture emphasize about hierarchy?",
+      "back": "References: How to reason about collective operations Sample benchmarking code",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-nvidia-collective-communication-library-nccl",
+      "sectionTitle": "NVIDIA Collective Communication Library (NCCL)",
+      "tags": [
+        "hierarchy"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_07-card-9",
+      "front": "What does this lecture emphasize about HBM?",
+      "back": "Walk through bare-bones implementations of each strategy on deep MLPs.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-2-distributed-training",
+      "sectionTitle": "Part 2: distributed training",
+      "tags": [
+        "hbm"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_07-card-10",
+      "front": "What does this lecture emphasize about multi-GPU?",
+      "back": "Recall that MLPs are the compute bottleneck in Transformers, so this is representative.",
+      "lectureId": "lecture_07",
+      "sectionId": "lecture_07-part-2-distributed-training",
+      "sectionTitle": "Part 2: distributed training",
+      "tags": [
+        "multi-gpu"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_08-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "The word’s fastest supercomputers have exaflops of compute Limits to GPU-based scaling - memory Models are getting really big..",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_08-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "A single GPU can’t fit most of these large models!",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_08-card-3",
+      "front": "What does this lecture emphasize about Understand?",
+      "back": "Multi-GPU, multi-machine parallelism Intra-node parallelism via high -speed interconnects High-speed inter -node parallelism Split up memory and compute requirements across GPUs and machines But first..",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "understand"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_08-card-4",
+      "front": "What does this lecture emphasize about complexities?",
+      "back": "Some basics about collective communication All reduce Broadcast Reduce All Gather Reduce Scatter Important detail – all reduce vs reduce-scatter-gather.",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "complexities"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_08-card-5",
+      "front": "What does this lecture emphasize about Different?",
+      "back": "Pro mesh – Cheaper to operate, can be made fast (and just do tensor parallel) Pro tree/A2A – Better for less structured communications (expert parallel) But then things change..",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "different"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_08-card-6",
+      "front": "What does this lecture emphasize about parallelization?",
+      "back": "TPU8i/t TPU8i networking – closer to tree-style topologies (maybe for MoEs?) TPU8t scale-out networking – ‘Virgo’ with switched networks Why not connect everything?",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "parallelization"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_08-card-7",
+      "front": "What does this lecture emphasize about paradigms?",
+      "back": "Exchange gradients to synchronize How does this do?",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "paradigms"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_08-card-8",
+      "front": "What does this lecture emphasize about Organization?",
+      "back": "Compute scaling – each GPU gets B/M examples.",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "organization"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_08-card-9",
+      "front": "What does this lecture emphasize about networking?",
+      "back": "TPU8i/t TPU8i networking – closer to tree-style topologies (maybe for MoEs?) TPU8t scale-out networking – ‘Virgo’ with switched networks Why not connect everything?",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "networking"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_08-card-10",
+      "front": "What does this lecture emphasize about LLM?",
+      "back": "Every GPU needs # params at least What’s wrong with naïve data parallel?",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "llm"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_09-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_09-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_09-card-3",
+      "front": "What does this lecture emphasize about seriously?",
+      "back": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "seriously"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_09-card-4",
+      "front": "What does this lecture emphasize about distributed?",
+      "back": "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "distributed"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_09-card-5",
+      "front": "What does this lecture emphasize about framework?",
+      "back": "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "framework"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_09-card-6",
+      "front": "What does this lecture emphasize about pretraining?",
+      "back": "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "pretraining"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_09-card-7",
+      "front": "What does this lecture emphasize about nonlinearity?",
+      "back": "“Emergence” Scaling by compute Speed = accuracy Part 2.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "nonlinearity"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_09-card-8",
+      "front": "What does this lecture emphasize about optimized?",
+      "back": "We could cargo cult things from existing LMs… but how do these get optimized in the first place?",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "optimized"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_09-card-9",
+      "front": "What does this lecture emphasize about predictive?",
+      "back": "Data vs model size Do we train on more data or bigger models?",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "predictive"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_09-card-10",
+      "front": "What does this lecture emphasize about behaviors?",
+      "back": "Neural (LLM) scaling behaviors 1.Data vs performance “Are there simple rules that determine how data affects performance?” 2.",
+      "lectureId": "lecture_09",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "behaviors"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_10-card-1",
+      "front": "What does this lecture emphasize about inference?",
+      "back": "Recall that memory is the bottleneck for inference.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "inference"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_10-card-2",
+      "front": "What does this lecture emphasize about completion?",
+      "back": "Prefill: given a prompt, encode into vectors (parallelizable like in training) 2.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "completion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_10-card-3",
+      "front": "What does this lecture emphasize about processing?",
+      "back": "Generation: generate new response tokens (sequential) Let's compute the FLOPs and memory IO for both the MLP and attention layers.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "processing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_10-card-4",
+      "front": "What does this lecture emphasize about evaluation?",
+      "back": "S is the number of tokens we're conditioning on, T is the number of tokens we're generating.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "evaluation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_10-card-5",
+      "front": "What does this lecture emphasize about instruction?",
+      "back": "Later, we'll specialize to prefill (T = S) and generation (T = 1).",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "instruction"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_10-card-6",
+      "front": "What does this lecture emphasize about Reinforcement?",
+      "back": "Read Wup (D x F), Wgate (D x F), Wdown (F x D) from HBM 3.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "reinforcement"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_10-card-7",
+      "front": "What does this lecture emphasize about generations?",
+      "back": "Compute Y = GeLU(G)U (B x T x F) @ Wdown (F x D) 8.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "generations"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_10-card-8",
+      "front": "What does this lecture emphasize about efficiency?",
+      "back": "Write Y (B x T x D) to HBM assert flops == 6BTDF assert bytes_transferred == 4BTD + 4BTF + 6DF Assume that BT is much smaller than D and F.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "efficiency"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_10-card-9",
+      "front": "What does this lecture emphasize about processes?",
+      "back": "assert intensity == BT For the two stages: 1.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "processes"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_10-card-10",
+      "front": "What does this lecture emphasize about reference?",
+      "back": "Prefill: easy to make compute-bound (good) by making BT large enough (large batches, long sequences) 2.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "reference"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_11-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_11-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_11-card-3",
+      "front": "What does this lecture emphasize about Motivation?",
+      "back": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "motivation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_11-card-4",
+      "front": "What does this lecture emphasize about practices?",
+      "back": "Lecture 11 CS336 S C A L I N G – C A S E S T U D Y A N D D E TA I L S Motivation today What is the best practices for scaling and hparam tuning LMs?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "practices"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_11-card-5",
+      "front": "What does this lecture emphasize about chinchilla?",
+      "back": "• Does chinchilla’s approach to scaling actually work?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "chinchilla"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_11-card-6",
+      "front": "What does this lecture emphasize about particular?",
+      "back": "• Should we be picking particular architectures / parametrizations to scale nicely?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "particular"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_11-card-7",
+      "front": "What does this lecture emphasize about architectures?",
+      "back": "• Should we be picking particular architectures / parametrizations to scale nicely?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "architectures"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_11-card-8",
+      "front": "What does this lecture emphasize about parametrizations?",
+      "back": "• Should we be picking particular architectures / parametrizations to scale nicely?",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "parametrizations"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_11-card-9",
+      "front": "What does this lecture emphasize about Initialization?",
+      "back": "2024 2024 2024 2025 2024 2026 Initialization and optimizers Initialization, optimizers, and various hyperparams (LR/batch) can be scale sensitive Working through some detailed, public scaling recipes 1.",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "initialization"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_11-card-10",
+      "front": "What does this lecture emphasize about optimizers?",
+      "back": "2024 2024 2024 2025 2024 2026 Initialization and optimizers Initialization, optimizers, and various hyperparams (LR/batch) can be scale sensitive Working through some detailed, public scaling recipes 1.",
+      "lectureId": "lecture_11",
+      "sectionId": "lecture_11-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "optimizers"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_12-card-1",
+      "front": "What does this lecture emphasize about everything?",
+      "back": "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "everything"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_12-card-2",
+      "front": "What does this lecture emphasize about architecture?",
+      "back": "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "architecture"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_12-card-3",
+      "front": "What does this lecture emphasize about multilingual?",
+      "back": "Evaluation might appear to be a mechanical process: 1.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "multilingual"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_12-card-4",
+      "front": "What does this lecture emphasize about DNA?",
+      "back": "Send prompts to a model and get back responses 3.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "dna"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_12-card-5",
+      "front": "What does this lecture emphasize about Evaluation?",
+      "back": "Evaluation might appear to be a mechanical process: 1.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "evaluation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_12-card-6",
+      "front": "What does this lecture emphasize about mechanical?",
+      "back": "Evaluation might appear to be a mechanical process: 1.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "mechanical"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_12-card-7",
+      "front": "What does this lecture emphasize about responses?",
+      "back": "Send prompts to a model and get back responses 3.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "responses"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_12-card-8",
+      "front": "What does this lecture emphasize about development?",
+      "back": "Maybe a model is good if people prefer its responses...",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "development"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_12-card-9",
+      "front": "What does this lecture emphasize about challenge?",
+      "back": "Core challenge: abstract construct → concrete metric Maybe a model is good if it does well on benchmarks...",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "challenge"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_12-card-10",
+      "front": "What does this lecture emphasize about construct?",
+      "back": "Core challenge: abstract construct → concrete metric Maybe a model is good if it does well on benchmarks...",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "construct"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_13-card-1",
+      "front": "What does this lecture emphasize about justification?",
+      "back": "One justification: let's see what companies disclose.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "justification"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_13-card-2",
+      "front": "What does this lecture emphasize about companies?",
+      "back": "One justification: let's see what companies disclose.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "companies"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_13-card-3",
+      "front": "What does this lecture emphasize about Open-weight?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "open-weight"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_13-card-4",
+      "front": "What does this lecture emphasize about transparency?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "transparency"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_13-card-5",
+      "front": "What does this lecture emphasize about architecture?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "architecture"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_13-card-6",
+      "front": "What does this lecture emphasize about procedures?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "procedures"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_13-card-7",
+      "front": "What does this lecture emphasize about basically?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "basically"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_13-card-8",
+      "front": "What does this lecture emphasize about information?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "information"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_13-card-9",
+      "front": "What does this lecture emphasize about Competitive?",
+      "back": "Mid-training: train more on high quality data to enhance capabilities 3.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "competitive"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_13-card-10",
+      "front": "What does this lecture emphasize about Copyright?",
+      "back": "Copyright liability - Before foundation models, data work meant heavy annotation of labeled data for supervised learning.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "copyright"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_14-card-1",
+      "front": "What does this lecture emphasize about processed?",
+      "back": "It is HTML, PDF (arxiv), or directories (code repositories).",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "processed"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_14-card-2",
+      "front": "What does this lecture emphasize about Considerations?",
+      "back": "HTML to text (main one): - Remove boilerplate (e.g., navigation, ads) and extract content - What about images, tables, etc.?",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "considerations"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_14-card-3",
+      "front": "What does this lecture emphasize about copyright?",
+      "back": "example page Deduplication training data makes language models better arxiv.org - Train more efficiently (because have fewer tokens) - Avoid memorization (can mitigate copyright, privacy concerns) Design space: 1.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "copyright"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_14-card-4",
+      "front": "What does this lecture emphasize about transformation?",
+      "back": "Estimate some model based on R and T and derive a scoring function 2.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "transformation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_14-card-5",
+      "front": "What does this lecture emphasize about filtering?",
+      "back": "We’d be honored if you can apply some or all of these design in your wedding.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "filtering"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_14-card-6",
+      "front": "What does this lecture emphasize about deduplication?",
+      "back": "example page Deduplication training data makes language models better arxiv.org - Train more efficiently (because have fewer tokens) - Avoid memorization (can mitigate copyright, privacy concerns) Design space: 1.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "deduplication"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_14-card-7",
+      "front": "What does this lecture emphasize about Mid-training?",
+      "back": "example page Deduplication training data makes language models better arxiv.org - Train more efficiently (because have fewer tokens) - Avoid memorization (can mitigate copyright, privacy concerns) Design space: 1.",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "mid-training"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_14-card-8",
+      "front": "What does this lecture emphasize about SFT?",
+      "back": "What is an item (sentence, paragraph, document)?",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "sft"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_14-card-9",
+      "front": "What does this lecture emphasize about synthetic?",
+      "back": "How to match (exact match, existence of common subitem, fraction of common subitems)?",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "synthetic"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_14-card-10",
+      "front": "What does this lecture emphasize about HTML?",
+      "back": "It is HTML, PDF (arxiv), or directories (code repositories).",
+      "lectureId": "lecture_14",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II",
+      "tags": [
+        "html"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "lectureCount": 14
+}

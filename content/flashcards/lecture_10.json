@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_10",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_10-card-1",
+      "front": "What does this lecture emphasize about inference?",
+      "back": "Recall that memory is the bottleneck for inference.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "inference"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_10-card-2",
+      "front": "What does this lecture emphasize about completion?",
+      "back": "Prefill: given a prompt, encode into vectors (parallelizable like in training) 2.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "completion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_10-card-3",
+      "front": "What does this lecture emphasize about processing?",
+      "back": "Generation: generate new response tokens (sequential) Let's compute the FLOPs and memory IO for both the MLP and attention layers.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "processing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_10-card-4",
+      "front": "What does this lecture emphasize about evaluation?",
+      "back": "S is the number of tokens we're conditioning on, T is the number of tokens we're generating.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "evaluation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_10-card-5",
+      "front": "What does this lecture emphasize about instruction?",
+      "back": "Later, we'll specialize to prefill (T = S) and generation (T = 1).",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload",
+      "tags": [
+        "instruction"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_10-card-6",
+      "front": "What does this lecture emphasize about Reinforcement?",
+      "back": "Read Wup (D x F), Wgate (D x F), Wdown (F x D) from HBM 3.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "reinforcement"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_10-card-7",
+      "front": "What does this lecture emphasize about generations?",
+      "back": "Compute Y = GeLU(G)U (B x T x F) @ Wdown (F x D) 8.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "generations"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_10-card-8",
+      "front": "What does this lecture emphasize about efficiency?",
+      "back": "Write Y (B x T x D) to HBM assert flops == 6BTDF assert bytes_transferred == 4BTD + 4BTF + 6DF Assume that BT is much smaller than D and F.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "efficiency"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_10-card-9",
+      "front": "What does this lecture emphasize about processes?",
+      "back": "assert intensity == BT For the two stages: 1.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "processes"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_10-card-10",
+      "front": "What does this lecture emphasize about reference?",
+      "back": "Prefill: easy to make compute-bound (good) by making BT large enough (large batches, long sequences) 2.",
+      "lectureId": "lecture_10",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)",
+      "tags": [
+        "reference"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

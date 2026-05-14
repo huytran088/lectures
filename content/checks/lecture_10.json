@@ -1,0 +1,57 @@
+{
+  "lectureId": "lecture_10",
+  "partial": false,
+  "checks": [
+    {
+      "id": "lecture_10-understanding-the-inference-workload-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Write Y (B x F) to HBM assert flops == 2BDF assert bytes_transferred == 2BD + 2DF + 2BF Recall that arithmetic intensity is how much compute we do per byte transferred (want to be high).\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_10-understanding-the-inference-workload",
+      "sectionTitle": "Understanding the inference workload"
+    },
+    {
+      "id": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "HBM",
+      "explanation": "Read Wup (D x F), Wgate (D x F), Wdown (F x D) from HBM 3.",
+      "sectionId": "lecture_10-mlp-layers-only-looking-at-the-matrix-multiplications",
+      "sectionTitle": "MLP layers (only looking at the matrix multiplications)"
+    },
+    {
+      "id": "lecture_10-attention-layers-focusing-on-the-matrix-multiplications-with-flashattention-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "S is number of previous tokens (already generated) - T is number of next tokens (to generate logits for) 1.",
+        "Read Q (B x T x D), K (B x S x D), V (B x S x D) from HBM 2.",
+        "Compute Y = softmax(A) (B x S x T x K x G) @ V (B x S x K x H) 4.",
+        "Write Y (B x T x D) to HBM assert flops == 4BSTD assert bytes_transferred == 4BSD + 4BTD assert intensity == ST / (S + T) For the two stages: 1."
+      ],
+      "answer": "S is number of previous tokens (already generated) - T is number of next tokens (to generate logits for) 1.",
+      "explanation": "This wording is extracted from Attention layers (focusing on the matrix multiplications with FlashAttention).",
+      "sectionId": "lecture_10-attention-layers-focusing-on-the-matrix-multiplications-with-flashattention",
+      "sectionTitle": "Attention layers (focusing on the matrix multiplications with FlashAttention)"
+    },
+    {
+      "id": "lecture_10-taking-shortcuts-lossy-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Recall that memory is the bottleneck for inference.\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_10-taking-shortcuts-lossy",
+      "sectionTitle": "Taking shortcuts (lossy)"
+    },
+    {
+      "id": "lecture_10-grouped-query-attention-gqa-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "interacting",
+      "explanation": "`interacting` is extracted from this section.",
+      "sectionId": "lecture_10-grouped-query-attention-gqa",
+      "sectionTitle": "Grouped-query attention (GQA)"
+    }
+  ]
+}

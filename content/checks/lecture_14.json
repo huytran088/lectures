@@ -1,0 +1,30 @@
+{
+  "lectureId": "lecture_14",
+  "partial": false,
+  "checks": [
+    {
+      "id": "lecture_14-lecture-14-data-ii-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "It is HTML, PDF (arxiv), or directories (code repositories).",
+        "HTML to text (main one): - Remove boilerplate (e.g., navigation, ads) and extract content - What about images, tables, etc.?",
+        "Inherently lossy (need to linearize) - Tools (rule-based): trafilatura, resiliparse, jusText, lynx, etc.",
+        "Estimate some model based on R and T and derive a scoring function 2."
+      ],
+      "answer": "It is HTML, PDF (arxiv), or directories (code repositories).",
+      "explanation": "This wording is extracted from Lecture 14: Data II.",
+      "sectionId": "lecture_14-lecture-14-data-ii",
+      "sectionTitle": "Lecture 14: Data II"
+    },
+    {
+      "id": "lecture_14-minhash-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "different",
+      "explanation": "`different` is extracted from this section.",
+      "sectionId": "lecture_14-minhash",
+      "sectionTitle": "MinHash"
+    }
+  ]
+}

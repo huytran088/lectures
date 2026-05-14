@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_05",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_05-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "Substantial credit goes to a few sources that I’d like to highlight..",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_05-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Early on – Dennard scaing But the traditional form of scaling ( Dennard scaling ) from 1980 -2000s has tapped out.",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_05-card-3",
+      "front": "What does this lecture emphasize about CUDA?",
+      "back": "How do we feed LLMs’ insatiable appetite for compute?",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cuda"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_05-card-4",
+      "front": "What does this lecture emphasize about hat-shapes-do-matrix-multiplications?",
+      "back": "Parallel scaling continues Parallel scaling with GPUs has scaled > 1000x in 10 years.",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "hat-shapes-do-matrix-multiplications"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_05-card-5",
+      "front": "What does this lecture emphasize about Attention?",
+      "back": "There is no LLM scaling without GPU scaling Bill dally, HotChips keynote How is a GPU different from a CPU?",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "attention"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_05-card-6",
+      "front": "What does this lecture emphasize about Understand?",
+      "back": "This section is from https://www.thonking.ai/p/what -shapes-do-matrix-multiplications Matrix mystery We understand some of this (compute intensity, tiling).",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "understand"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_05-card-7",
+      "front": "What does this lecture emphasize about algorithms?",
+      "back": "Anatomy of a GPU (memory) The closer the memory to the SM, the faster it is – L1 and shared memory is inside the SM.",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "algorithms"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_05-card-8",
+      "front": "What does this lecture emphasize about Substantial?",
+      "back": "Substantial credit goes to a few sources that I’d like to highlight..",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "substantial"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_05-card-9",
+      "front": "What does this lecture emphasize about highlight?",
+      "back": "Substantial credit goes to a few sources that I’d like to highlight..",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "highlight"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_05-card-10",
+      "front": "What does this lecture emphasize about including?",
+      "back": "Memory model of a GPU Each thread can access its own register, and shared memory within the block.",
+      "lectureId": "lecture_05",
+      "sectionId": "lecture_05-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "including"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

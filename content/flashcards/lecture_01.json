@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_01",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_01-card-1",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "Lectures from 2nd offering (Spring 2025) are on YouTube.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_01-card-2",
+      "front": "What does this lecture emphasize about philosophy?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)",
+      "tags": [
+        "philosophy"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_01-card-3",
+      "front": "What does this lecture emphasize about Prioritize?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "prioritize"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_01-card-4",
+      "front": "What does this lecture emphasize about value-per-time?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "value-per-time"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_01-card-5",
+      "front": "What does this lecture emphasize about ingredients?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "ingredients"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_01-card-6",
+      "front": "What does this lecture emphasize about long-context?",
+      "back": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "long-context"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_01-card-7",
+      "front": "What does this lecture emphasize about researchers?",
+      "back": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "researchers"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_01-card-8",
+      "front": "What does this lecture emphasize about disconnected?",
+      "back": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "disconnected"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_01-card-9",
+      "front": "What does this lecture emphasize about underlying?",
+      "back": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "underlying"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_01-card-10",
+      "front": "What does this lecture emphasize about technology?",
+      "back": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "lectureId": "lecture_01",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?",
+      "tags": [
+        "technology"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

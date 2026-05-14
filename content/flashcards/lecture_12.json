@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_12",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_12-card-1",
+      "front": "What does this lecture emphasize about everything?",
+      "back": "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "everything"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_12-card-2",
+      "front": "What does this lecture emphasize about architecture?",
+      "back": "So far: we've covered everything for training an LM (architecture, training, systems, scaling).",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "architecture"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_12-card-3",
+      "front": "What does this lecture emphasize about multilingual?",
+      "back": "Evaluation might appear to be a mechanical process: 1.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "multilingual"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_12-card-4",
+      "front": "What does this lecture emphasize about DNA?",
+      "back": "Send prompts to a model and get back responses 3.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "dna"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_12-card-5",
+      "front": "What does this lecture emphasize about Evaluation?",
+      "back": "Evaluation might appear to be a mechanical process: 1.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "evaluation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_12-card-6",
+      "front": "What does this lecture emphasize about mechanical?",
+      "back": "Evaluation might appear to be a mechanical process: 1.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "mechanical"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_12-card-7",
+      "front": "What does this lecture emphasize about responses?",
+      "back": "Send prompts to a model and get back responses 3.",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "responses"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_12-card-8",
+      "front": "What does this lecture emphasize about development?",
+      "back": "Maybe a model is good if people prefer its responses...",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "development"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_12-card-9",
+      "front": "What does this lecture emphasize about challenge?",
+      "back": "Core challenge: abstract construct → concrete metric Maybe a model is good if it does well on benchmarks...",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "challenge"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_12-card-10",
+      "front": "What does this lecture emphasize about construct?",
+      "back": "Core challenge: abstract construct → concrete metric Maybe a model is good if it does well on benchmarks...",
+      "lectureId": "lecture_12",
+      "sectionId": "lecture_12-lecture-12-evaluation",
+      "sectionTitle": "Lecture 12: evaluation",
+      "tags": [
+        "construct"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

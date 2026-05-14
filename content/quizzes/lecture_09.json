@@ -1,0 +1,87 @@
+{
+  "lectureId": "lecture_09",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_09-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+        "Your friend has given you ten thousand B200s for a month, and asked you to build a good open source LM.",
+        "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+        "We could cargo cult things from existing LMs… but how do these get optimized in the first place?"
+      ],
+      "answer": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_09-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Your friend has given you ten thousand B200s for a month, and asked you to build a good open source LM.",
+        "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+        "We could cargo cult things from existing LMs… but how do these get optimized in the first place?",
+        "❖ Data scaling as empirical sample complexities ❖ Initial forays into understanding neural scaling with data Sample complexity and rates Theorists have thought about ‘scaling’ for a long time.."
+      ],
+      "answer": "Your friend has given you ten thousand B200s for a month, and asked you to build a good open source LM.",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_09-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+        "We could cargo cult things from existing LMs… but how do these get optimized in the first place?",
+        "❖ Data scaling as empirical sample complexities ❖ Initial forays into understanding neural scaling with data Sample complexity and rates Theorists have thought about ‘scaling’ for a long time..",
+        "But these are upper bounds, not actual, realized loss values."
+      ],
+      "answer": "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_09-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"We could cargo cult things from existing LMs… but how do these get optimized in the first place?\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Extracted PDF text.",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_09-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: Extracted?",
+      "answer": "Extracted",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_09-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: CS336?",
+      "answer": "CS336",
+      "explanation": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_09-extracted-pdf-text-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "Lecture 9 ____ S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "answer": "CS336",
+      "explanation": "The missing phrase appears in Extracted PDF text.",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

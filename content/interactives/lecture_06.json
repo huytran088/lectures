@@ -1,0 +1,58 @@
+{
+  "lectureId": "lecture_06",
+  "interactives": [
+    {
+      "id": "lecture_06-js-sandbox",
+      "type": "code-sandbox",
+      "kind": "javascript-worker",
+      "title": "Try It: Browser Sandbox",
+      "description": "Executable JavaScript sandbox generated from extracted lecture concepts. Runs in a disposable Web Worker with a timeout.",
+      "language": "javascript",
+      "code": "const lectureTitle = \"Lecture 06: Hardware\";\nconst concepts = [\"high-level\", \"performance\", \"benchmarking\", \"profiling\", \"Accelerator\"];\n\nconsole.log(`Lecture: ${lectureTitle}`);\nconsole.log(`Concept count: ${concepts.length}`);\n\nconst ranked = concepts\n  .map((concept) => ({ concept, length: concept.length }))\n  .sort((left, right) => right.length - left.length);\n\nconsole.log(ranked.map((item) => `${item.concept} (${item.length})`).join(\", \"));\nreturn ranked;",
+      "expectedOutput": "A ranked list of extracted lecture concepts by string length.",
+      "safeExecution": true,
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_06-scaling-law",
+      "type": "slider",
+      "kind": "scaling-law",
+      "title": "Scaling Law",
+      "description": "Illustrative client-side control generated because `scaling` appears in the extracted lecture material.",
+      "synthetic": true,
+      "sectionId": "lecture_06-opening",
+      "sectionTitle": "Opening",
+      "min": 1,
+      "max": 100,
+      "default": 40,
+      "unit": "relative units"
+    },
+    {
+      "id": "lecture_06-sandbox-3",
+      "type": "code-sandbox",
+      "kind": "python-placeholder",
+      "title": "Try It: Source Snippet",
+      "description": "Editable static Python snippet. Browser execution is intentionally disabled for extracted Python; copy and run locally if needed.",
+      "language": "python",
+      "code": "assert num_registers_per_thread <= 255",
+      "expectedOutput": "num_registers_per_thread <= 255",
+      "safeExecution": false,
+      "sectionId": "lecture_06-interaction-between-programming-model-and-hardware",
+      "sectionTitle": "Interaction between programming model and hardware"
+    },
+    {
+      "id": "lecture_06-sandbox-4",
+      "type": "code-sandbox",
+      "kind": "python-placeholder",
+      "title": "Try It: Source Snippet",
+      "description": "Editable static Python snippet. Browser execution is intentionally disabled for extracted Python; copy and run locally if needed.",
+      "language": "python",
+      "code": "assert torch.allclose(y1, y2, atol=1e-6)",
+      "expectedOutput": "torch.allclose(y1, y2, atol=1e-6)",
+      "safeExecution": false,
+      "sectionId": "lecture_06-matmul-dim-128",
+      "sectionTitle": "matmul(dim=128)"
+    }
+  ]
+}

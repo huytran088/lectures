@@ -1,0 +1,21 @@
+{
+  "lectureId": "lecture_03",
+  "partial": true,
+  "checks": [
+    {
+      "id": "lecture_03-extracted-pdf-text-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "❖ What are common variations to the architecture / training process?",
+        "Over 19 new dense model releases, many of them with minor architecture tweaks..",
+        "There can’t be that many LLMs released this year right?",
+        "Let’s look at the data (on dense architectures) Learn from the many other models (and papers) out there We will talk through many major architecture and hyperparameter variants."
+      ],
+      "answer": "❖ What are common variations to the architecture / training process?",
+      "explanation": "This wording is extracted from Extracted PDF text.",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lectureId": "lecture_01",
+  "partial": false,
+  "checks": [
+    {
+      "id": "lecture_01-cs336-language-models-from-scratch-spring-2026-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Lectures from 2nd offering (Spring 2025) are on YouTube.",
+        "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)"
+      ],
+      "answer": "Lectures from 2nd offering (Spring 2025) are on YouTube.",
+      "explanation": "This wording is extracted from CS336: Language Models From Scratch (Spring 2026).",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)"
+    },
+    {
+      "id": "lecture_01-why-did-we-make-this-course-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Problem: researchers are becoming disconnected from the underlying technology.\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?"
+    },
+    {
+      "id": "lecture_01-the-industrialization-of-language-models-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "expensive",
+      "explanation": "Frontier models are really expensive: - 2023: GPT-4 supposedly cost $100M to train.",
+      "sectionId": "lecture_01-the-industrialization-of-language-models",
+      "sectionTitle": "The industrialization of language models"
+    },
+    {
+      "id": "lecture_01-what-can-we-learn-in-this-class-that-transfers-to-frontier-models-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "We can only partially teach intuitions (do not necessarily transfer across scales)."
+      ],
+      "answer": "We can only partially teach intuitions (do not necessarily transfer across scales).",
+      "explanation": "This wording is extracted from What can we learn in this class that transfers to frontier models?.",
+      "sectionId": "lecture_01-what-can-we-learn-in-this-class-that-transfers-to-frontier-models",
+      "sectionTitle": "What can we learn in this class that transfers to frontier models?"
+    },
+    {
+      "id": "lecture_01-intuitions-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Some design decisions are simply not (yet) justifiable and just come from experimentation.\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_01-intuitions",
+      "sectionTitle": "Intuitions? 🤷"
+    },
+    {
+      "id": "lecture_01-the-bitter-lesson-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "interpretation",
+      "explanation": "Wrong interpretation: scale is all that matters, algorithms don't matter.",
+      "sectionId": "lecture_01-the-bitter-lesson",
+      "sectionTitle": "The bitter lesson"
+    }
+  ]
+}

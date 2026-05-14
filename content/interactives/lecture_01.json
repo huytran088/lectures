@@ -1,0 +1,58 @@
+{
+  "lectureId": "lecture_01",
+  "interactives": [
+    {
+      "id": "lecture_01-js-sandbox",
+      "type": "code-sandbox",
+      "kind": "javascript-worker",
+      "title": "Try It: Browser Sandbox",
+      "description": "Executable JavaScript sandbox generated from extracted lecture concepts. Runs in a disposable Web Worker with a timeout.",
+      "language": "javascript",
+      "code": "const lectureTitle = \"Lecture 01: CS336: Language Models From Scratch (Spring 2026)\";\nconst concepts = [\"CS336\", \"philosophy\", \"Prioritize\", \"value-per-time\", \"ingredients\"];\n\nconsole.log(`Lecture: ${lectureTitle}`);\nconsole.log(`Concept count: ${concepts.length}`);\n\nconst ranked = concepts\n  .map((concept) => ({ concept, length: concept.length }))\n  .sort((left, right) => right.length - left.length);\n\nconsole.log(ranked.map((item) => `${item.concept} (${item.length})`).join(\", \"));\nreturn ranked;",
+      "expectedOutput": "A ranked list of extracted lecture concepts by string length.",
+      "safeExecution": true,
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)"
+    },
+    {
+      "id": "lecture_01-token-context",
+      "type": "slider",
+      "kind": "token-context",
+      "title": "Token and Context Length",
+      "description": "Illustrative client-side control generated because `token` appears in the extracted lecture material.",
+      "synthetic": true,
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)",
+      "min": 1,
+      "max": 100,
+      "default": 40,
+      "unit": "relative units"
+    },
+    {
+      "id": "lecture_01-sandbox-3",
+      "type": "code-sandbox",
+      "kind": "python-placeholder",
+      "title": "Try It: Source Snippet",
+      "description": "Editable static Python snippet. Browser execution is intentionally disabled for extracted Python; copy and run locally if needed.",
+      "language": "python",
+      "code": "for x in [1, 2, 3]:  # @inspect x\n        total += x",
+      "expectedOutput": "x",
+      "safeExecution": false,
+      "sectionId": "lecture_01-open-models",
+      "sectionTitle": "Open models"
+    },
+    {
+      "id": "lecture_01-sandbox-4",
+      "type": "code-sandbox",
+      "kind": "python-placeholder",
+      "title": "Try It: Source Snippet",
+      "description": "Editable static Python snippet. Browser execution is intentionally disabled for extracted Python; copy and run locally if needed.",
+      "language": "python",
+      "code": "assert string == reconstructed_string",
+      "expectedOutput": "string == reconstructed_string",
+      "safeExecution": false,
+      "sectionId": "lecture_01-observations",
+      "sectionTitle": "Observations"
+    }
+  ]
+}

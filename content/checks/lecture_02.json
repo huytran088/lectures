@@ -1,0 +1,71 @@
+{
+  "lectureId": "lecture_02",
+  "partial": false,
+  "checks": [
+    {
+      "id": "lecture_02-opening-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+        "Last lecture: overview, tokenization Today: resource accounting (systems) Recall: what's the best model one can train given fixed resources (compute, memory)?",
+        "In other words: maximize (computational) efficiency.",
+        "Prerequisite: understand the resources (compute, memory) for a given computation."
+      ],
+      "answer": "Announcements: - Join the CS336 slack - Sign up on Modal with your Stanford email - Read the AI policy guide - Read the cluster guide Marin 1e23 FLOPs run finished and matched forecasts!",
+      "explanation": "This wording is extracted from Opening.",
+      "sectionId": "lecture_02-opening",
+      "sectionTitle": "Opening"
+    },
+    {
+      "id": "lecture_02-fp32-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Wikipedia The fp32 data type (also known as float32 or single precision) is the default.\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_02-fp32",
+      "sectionTitle": "fp32"
+    },
+    {
+      "id": "lecture_02-fp16-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "Wikipedia",
+      "explanation": "Wikipedia The fp16 data type (also known as float16 or half precision) cuts down the memory.",
+      "sectionId": "lecture_02-fp16",
+      "sectionTitle": "fp16"
+    },
+    {
+      "id": "lecture_02-bf16-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Wikipedia Google Brain developed brain floating point (bf16) in 2018 to address this issue.",
+        "bf16 uses the same memory as fp16 but has the same dynamic range as fp32!",
+        "The only catch is that the resolution is worse, but this matters less for deep learning."
+      ],
+      "answer": "Wikipedia Google Brain developed brain floating point (bf16) in 2018 to address this issue.",
+      "explanation": "This wording is extracted from bf16.",
+      "sectionId": "lecture_02-bf16",
+      "sectionTitle": "bf16"
+    },
+    {
+      "id": "lecture_02-mixed-precision-check-tf",
+      "type": "true-false",
+      "prompt": "True or false: this section says, \"Implications on training: - Training with fp32 works, but requires lots of memory.\"",
+      "answer": true,
+      "explanation": "The statement is quoted from the extracted lecture material.",
+      "sectionId": "lecture_02-mixed-precision",
+      "sectionTitle": "Mixed precision"
+    },
+    {
+      "id": "lecture_02-fp8-check-fill",
+      "type": "fill-in-the-blank",
+      "prompt": "Fill in the concept emphasized here: ____",
+      "answer": "standardized",
+      "explanation": "In 2022, fp8 was standardized, motivated by machine learning workloads primer.",
+      "sectionId": "lecture_02-fp8",
+      "sectionTitle": "fp8"
+    }
+  ]
+}

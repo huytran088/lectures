@@ -1,0 +1,87 @@
+{
+  "lectureId": "lecture_03",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_03-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "❖ What are common variations to the architecture / training process?",
+        "Over 19 new dense model releases, many of them with minor architecture tweaks..",
+        "There can’t be that many LLMs released this year right?",
+        "Let’s look at the data (on dense architectures) Learn from the many other models (and papers) out there We will talk through many major architecture and hyperparameter variants."
+      ],
+      "answer": "❖ What are common variations to the architecture / training process?",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_03-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Over 19 new dense model releases, many of them with minor architecture tweaks..",
+        "There can’t be that many LLMs released this year right?",
+        "Let’s look at the data (on dense architectures) Learn from the many other models (and papers) out there We will talk through many major architecture and hyperparameter variants.",
+        "Common architecture variations • Activations, FFN • Attention variants • Position embeddings Hyperparameters that (do or don’t) matter • What is ff_dim?"
+      ],
+      "answer": "Over 19 new dense model releases, many of them with minor architecture tweaks..",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_03-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "There can’t be that many LLMs released this year right?",
+        "Let’s look at the data (on dense architectures) Learn from the many other models (and papers) out there We will talk through many major architecture and hyperparameter variants.",
+        "Common architecture variations • Activations, FFN • Attention variants • Position embeddings Hyperparameters that (do or don’t) matter • What is ff_dim?",
+        "I don’t know why this is post -norm) Pre-vs-post-norm, the data Figure from Xiong 2020 Salazar and Ngyuen 2019 Pre-vs-post norm, explanations?"
+      ],
+      "answer": "There can’t be that many LLMs released this year right?",
+      "explanation": "This statement is drawn from Extracted PDF text.",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_03-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"Let’s look at the data (on dense architectures) Learn from the many other models (and papers) out there We will talk through many major architecture and hyperparameter variants.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Extracted PDF text.",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_03-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: Extracted?",
+      "answer": "Extracted",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_03-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: CS336?",
+      "answer": "CS336",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    },
+    {
+      "id": "lecture_03-extracted-pdf-text-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "❖ What are common ____ to the architecture / training process?",
+      "answer": "variations",
+      "explanation": "The missing phrase appears in Extracted PDF text.",
+      "sectionId": "lecture_03-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

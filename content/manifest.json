@@ -1,0 +1,168 @@
+{
+  "generatedBy": "scripts/generate-content.py",
+  "lectureCount": 14,
+  "lectures": [
+    {
+      "id": "lecture_01",
+      "sourceFile": "lecture_01.py",
+      "sourceType": "py",
+      "generatedStatus": "extracted",
+      "quizQuestions": 8,
+      "quickChecks": 6,
+      "flashcards": 10,
+      "interactives": 4,
+      "pagePath": "pages/lecture_01.html"
+    },
+    {
+      "id": "lecture_02",
+      "sourceFile": "lecture_02.py",
+      "sourceType": "py",
+      "generatedStatus": "extracted",
+      "quizQuestions": 8,
+      "quickChecks": 6,
+      "flashcards": 10,
+      "interactives": 4,
+      "pagePath": "pages/lecture_02.html"
+    },
+    {
+      "id": "lecture_03",
+      "sourceFile": "lecture_03.pdf",
+      "sourceType": "pdf",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 1,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_03.html"
+    },
+    {
+      "id": "lecture_04",
+      "sourceFile": "lecture_04.pdf",
+      "sourceType": "pdf",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 1,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_04.html"
+    },
+    {
+      "id": "lecture_05",
+      "sourceFile": "lecture_05.pdf",
+      "sourceType": "pdf",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 1,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_05.html"
+    },
+    {
+      "id": "lecture_06",
+      "sourceFile": "lecture_06.py",
+      "sourceType": "py",
+      "generatedStatus": "extracted",
+      "quizQuestions": 8,
+      "quickChecks": 3,
+      "flashcards": 10,
+      "interactives": 4,
+      "pagePath": "pages/lecture_06.html"
+    },
+    {
+      "id": "lecture_07",
+      "sourceFile": "lecture_07.py",
+      "sourceType": "py",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 4,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_07.html"
+    },
+    {
+      "id": "lecture_08",
+      "sourceFile": "lecture_08.pdf",
+      "sourceType": "pdf",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 1,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_08.html"
+    },
+    {
+      "id": "lecture_09",
+      "sourceFile": "lecture_09.pdf",
+      "sourceType": "pdf",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 1,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_09.html"
+    },
+    {
+      "id": "lecture_10",
+      "sourceFile": "lecture_10.py",
+      "sourceType": "py",
+      "generatedStatus": "extracted",
+      "quizQuestions": 8,
+      "quickChecks": 5,
+      "flashcards": 10,
+      "interactives": 4,
+      "pagePath": "pages/lecture_10.html"
+    },
+    {
+      "id": "lecture_11",
+      "sourceFile": "lecture_11.pdf",
+      "sourceType": "pdf",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 1,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_11.html"
+    },
+    {
+      "id": "lecture_12",
+      "sourceFile": "lecture_12.py",
+      "sourceType": "py",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 3,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_12.html"
+    },
+    {
+      "id": "lecture_13",
+      "sourceFile": "lecture_13.py",
+      "sourceType": "py",
+      "generatedStatus": "extracted",
+      "quizQuestions": 7,
+      "quickChecks": 5,
+      "flashcards": 10,
+      "interactives": 2,
+      "pagePath": "pages/lecture_13.html"
+    },
+    {
+      "id": "lecture_14",
+      "sourceFile": "lecture_14.py",
+      "sourceType": "py",
+      "generatedStatus": "extracted",
+      "quizQuestions": 8,
+      "quickChecks": 2,
+      "flashcards": 10,
+      "interactives": 4,
+      "pagePath": "pages/lecture_14.html"
+    }
+  ],
+  "warnings": [
+    "lecture_06: Skipped dynamic text() call on line 215.",
+    "lecture_06: Skipped dynamic text() call on line 219.",
+    "lecture_06: Skipped dynamic text() call on line 223.",
+    "lecture_06: Skipped dynamic text() call on line 289.",
+    "lecture_06: Skipped dynamic text() call on line 293.",
+    "lecture_06: Skipped dynamic text() call on line 297."
+  ]
+}

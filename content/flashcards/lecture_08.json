@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_08",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_08-card-1",
+      "front": "What does this lecture emphasize about Extracted?",
+      "back": "The word’s fastest supercomputers have exaflops of compute Limits to GPU-based scaling - memory Models are getting really big..",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "extracted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_08-card-2",
+      "front": "What does this lecture emphasize about CS336?",
+      "back": "A single GPU can’t fit most of these large models!",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "cs336"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_08-card-3",
+      "front": "What does this lecture emphasize about Understand?",
+      "back": "Multi-GPU, multi-machine parallelism Intra-node parallelism via high -speed interconnects High-speed inter -node parallelism Split up memory and compute requirements across GPUs and machines But first..",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "understand"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_08-card-4",
+      "front": "What does this lecture emphasize about complexities?",
+      "back": "Some basics about collective communication All reduce Broadcast Reduce All Gather Reduce Scatter Important detail – all reduce vs reduce-scatter-gather.",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "complexities"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_08-card-5",
+      "front": "What does this lecture emphasize about Different?",
+      "back": "Pro mesh – Cheaper to operate, can be made fast (and just do tensor parallel) Pro tree/A2A – Better for less structured communications (expert parallel) But then things change..",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "different"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_08-card-6",
+      "front": "What does this lecture emphasize about parallelization?",
+      "back": "TPU8i/t TPU8i networking – closer to tree-style topologies (maybe for MoEs?) TPU8t scale-out networking – ‘Virgo’ with switched networks Why not connect everything?",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "parallelization"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_08-card-7",
+      "front": "What does this lecture emphasize about paradigms?",
+      "back": "Exchange gradients to synchronize How does this do?",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "paradigms"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_08-card-8",
+      "front": "What does this lecture emphasize about Organization?",
+      "back": "Compute scaling – each GPU gets B/M examples.",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "organization"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_08-card-9",
+      "front": "What does this lecture emphasize about networking?",
+      "back": "TPU8i/t TPU8i networking – closer to tree-style topologies (maybe for MoEs?) TPU8t scale-out networking – ‘Virgo’ with switched networks Why not connect everything?",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "networking"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_08-card-10",
+      "front": "What does this lecture emphasize about LLM?",
+      "back": "Every GPU needs # params at least What’s wrong with naïve data parallel?",
+      "lectureId": "lecture_08",
+      "sectionId": "lecture_08-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text",
+      "tags": [
+        "llm"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lectureId": "lecture_09",
+  "partial": true,
+  "checks": [
+    {
+      "id": "lecture_09-extracted-pdf-text-check-mc",
+      "type": "multiple-choice",
+      "prompt": "Which statement is supported by this section?",
+      "choices": [
+        "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+        "Your friend has given you ten thousand B200s for a month, and asked you to build a good open source LM.",
+        "• Put together your infra team and distributed training framework (A2) • Put together a great pretraining dataset (A4) • Run a big model (but which one??) < - we are here.",
+        "We could cargo cult things from existing LMs… but how do these get optimized in the first place?"
+      ],
+      "answer": "Lecture 9 CS336 S C A L I N G L A W S - B A S I C S Taking scaling seriously Imagine the following scenario..",
+      "explanation": "This wording is extracted from Extracted PDF text.",
+      "sectionId": "lecture_09-extracted-pdf-text",
+      "sectionTitle": "Extracted PDF text"
+    }
+  ]
+}

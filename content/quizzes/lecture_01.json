@@ -1,0 +1,97 @@
+{
+  "lectureId": "lecture_01",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_01-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Lectures from 2nd offering (Spring 2025) are on YouTube.",
+        "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+        "Problem: researchers are becoming disconnected from the underlying technology.",
+        "2016: researchers implemented and trained their own models."
+      ],
+      "answer": "Lectures from 2nd offering (Spring 2025) are on YouTube.",
+      "explanation": "This statement is drawn from CS336: Language Models From Scratch (Spring 2026).",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)"
+    },
+    {
+      "id": "lecture_01-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+        "Problem: researchers are becoming disconnected from the underlying technology.",
+        "2016: researchers implemented and trained their own models.",
+        "2018: researchers downloaded models (e.g., BERT) and fine-tuned them."
+      ],
+      "answer": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "explanation": "This statement is drawn from CS336: Language Models From Scratch (Spring 2026).",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)"
+    },
+    {
+      "id": "lecture_01-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Problem: researchers are becoming disconnected from the underlying technology.",
+        "2016: researchers implemented and trained their own models.",
+        "2018: researchers downloaded models (e.g., BERT) and fine-tuned them.",
+        "Today: researchers prompt API models (e.g., GPT/Claude/Gemini)."
+      ],
+      "answer": "Problem: researchers are becoming disconnected from the underlying technology.",
+      "explanation": "This statement is drawn from Why did we make this course?.",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?"
+    },
+    {
+      "id": "lecture_01-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"2016: researchers implemented and trained their own models.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Why did we make this course?.",
+      "sectionId": "lecture_01-why-did-we-make-this-course",
+      "sectionTitle": "Why did we make this course?"
+    },
+    {
+      "id": "lecture_01-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: CS336?",
+      "answer": "CS336",
+      "explanation": "This term was extracted from a heading, bold phrase, or code-like phrase in the lecture.",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)"
+    },
+    {
+      "id": "lecture_01-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: philosophy?",
+      "answer": "philosophy",
+      "explanation": "Same 'from scratch' philosophy - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)"
+    },
+    {
+      "id": "lecture_01-cs336-language-models-from-scratch-spring-2026-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "Same 'from scratch' ____ - Prioritize high value-per-time concepts, don't lose the forest for the trees - More coverage of modern LM ingredients (mixture of experts, long-context, agents)",
+      "answer": "philosophy",
+      "explanation": "The missing phrase appears in CS336: Language Models From Scratch (Spring 2026).",
+      "sectionId": "lecture_01-cs336-language-models-from-scratch-spring-2026",
+      "sectionTitle": "CS336: Language Models From Scratch (Spring 2026)"
+    },
+    {
+      "id": "lecture_01-quiz-code-1",
+      "type": "code-prediction",
+      "prompt": "Which source expression is highlighted for inspection or assertion in this snippet?",
+      "code": "for x in [1, 2, 3]:  # @inspect x\n        total += x",
+      "answer": "x",
+      "explanation": "The answer is taken from the executable lecture source comments or assert expression; the generator does not execute arbitrary lecture code.",
+      "sectionId": "lecture_01-open-models",
+      "sectionTitle": "Open models"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lectureId": "lecture_13",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_13-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Previous lectures: how to train a model given data Next two lectures: what data should we train on?",
+        "Data is the most important thing to get right in training language models.",
+        "One justification: let's see what companies disclose.",
+        "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data."
+      ],
+      "answer": "Previous lectures: how to train a model given data Next two lectures: what data should we train on?",
+      "explanation": "This statement is drawn from Lecture 13: Data I.",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I"
+    },
+    {
+      "id": "lecture_13-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Data is the most important thing to get right in training language models.",
+        "One justification: let's see what companies disclose.",
+        "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+        "Copyright liability - Before foundation models, data work meant heavy annotation of labeled data for supervised learning."
+      ],
+      "answer": "Data is the most important thing to get right in training language models.",
+      "explanation": "This statement is drawn from Lecture 13: Data I.",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I"
+    },
+    {
+      "id": "lecture_13-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "One justification: let's see what companies disclose.",
+        "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+        "Copyright liability - Before foundation models, data work meant heavy annotation of labeled data for supervised learning.",
+        "Now there's less annotation, but there's still a lot of curation and cleaning."
+      ],
+      "answer": "One justification: let's see what companies disclose.",
+      "explanation": "This statement is drawn from Lecture 13: Data I.",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I"
+    },
+    {
+      "id": "lecture_13-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Lecture 13: Data I.",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I"
+    },
+    {
+      "id": "lecture_13-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: justification?",
+      "answer": "justification",
+      "explanation": "One justification: let's see what companies disclose.",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I"
+    },
+    {
+      "id": "lecture_13-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: companies?",
+      "answer": "companies",
+      "explanation": "One justification: let's see what companies disclose.",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I"
+    },
+    {
+      "id": "lecture_13-lecture-13-data-i-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "One ____: let's see what companies disclose.",
+      "answer": "justification",
+      "explanation": "The missing phrase appears in Lecture 13: Data I.",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I"
+    }
+  ]
+}

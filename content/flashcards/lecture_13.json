@@ -1,0 +1,126 @@
+{
+  "lectureId": "lecture_13",
+  "partial": false,
+  "cards": [
+    {
+      "id": "lecture_13-card-1",
+      "front": "What does this lecture emphasize about justification?",
+      "back": "One justification: let's see what companies disclose.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "justification"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_13-card-2",
+      "front": "What does this lecture emphasize about companies?",
+      "back": "One justification: let's see what companies disclose.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "companies"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_13-card-3",
+      "front": "What does this lecture emphasize about Open-weight?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "open-weight"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "lecture_13-card-4",
+      "front": "What does this lecture emphasize about transparency?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "transparency"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_13-card-5",
+      "front": "What does this lecture emphasize about architecture?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "architecture"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_13-card-6",
+      "front": "What does this lecture emphasize about procedures?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "procedures"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_13-card-7",
+      "front": "What does this lecture emphasize about basically?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "basically"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "lecture_13-card-8",
+      "front": "What does this lecture emphasize about information?",
+      "back": "Open-weight models (e.g., Llama 3 llama 3 2024 have full transparency into architecture ...and even training procedures ...but basically no information on data.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "information"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_13-card-9",
+      "front": "What does this lecture emphasize about Competitive?",
+      "back": "Mid-training: train more on high quality data to enhance capabilities 3.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "competitive"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "lecture_13-card-10",
+      "front": "What does this lecture emphasize about Copyright?",
+      "back": "Copyright liability - Before foundation models, data work meant heavy annotation of labeled data for supervised learning.",
+      "lectureId": "lecture_13",
+      "sectionId": "lecture_13-lecture-13-data-i",
+      "sectionTitle": "Lecture 13: Data I",
+      "tags": [
+        "copyright"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

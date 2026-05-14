@@ -1,0 +1,87 @@
+{
+  "lectureId": "lecture_07",
+  "partial": false,
+  "questions": [
+    {
+      "id": "lecture_07-quiz-mc-1",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+        "Your parameters (optimizer state + gradients + activations) don't fit on a single GPU.",
+        "You want to use more GPUs (more FLOPs) to train faster.",
+        "Collective operations are the conceptual primitives used for distributed programming article - These are classic in the parallel programming literature from the 1980s."
+      ],
+      "answer": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "explanation": "This statement is drawn from Lecture 7: parallelism.",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism"
+    },
+    {
+      "id": "lecture_07-quiz-mc-2",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "Your parameters (optimizer state + gradients + activations) don't fit on a single GPU.",
+        "You want to use more GPUs (more FLOPs) to train faster.",
+        "Collective operations are the conceptual primitives used for distributed programming article - These are classic in the parallel programming literature from the 1980s.",
+        "Collective means that you specify a general communication pattern across many devices."
+      ],
+      "answer": "Your parameters (optimizer state + gradients + activations) don't fit on a single GPU.",
+      "explanation": "This statement is drawn from Lecture 7: parallelism.",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism"
+    },
+    {
+      "id": "lecture_07-quiz-mc-3",
+      "type": "multiple-choice",
+      "prompt": "Which statement appears in this lecture section?",
+      "choices": [
+        "You want to use more GPUs (more FLOPs) to train faster.",
+        "Collective operations are the conceptual primitives used for distributed programming article - These are classic in the parallel programming literature from the 1980s.",
+        "Collective means that you specify a general communication pattern across many devices.",
+        "This can be better/faster than managing point-to-point communication yourself."
+      ],
+      "answer": "You want to use more GPUs (more FLOPs) to train faster.",
+      "explanation": "This statement is drawn from Lecture 7: parallelism.",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism"
+    },
+    {
+      "id": "lecture_07-quiz-tf-1",
+      "type": "true-false",
+      "prompt": "True or false: the lecture states, \"Collective operations are the conceptual primitives used for distributed programming article - These are classic in the parallel programming literature from the 1980s.\"",
+      "answer": true,
+      "explanation": "The sentence is extracted from Part 1: building blocks of distributed communication/computation.",
+      "sectionId": "lecture_07-part-1-building-blocks-of-distributed-communication-computation",
+      "sectionTitle": "Part 1: building blocks of distributed communication/computation"
+    },
+    {
+      "id": "lecture_07-quiz-short-1",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: parallelism?",
+      "answer": "parallelism",
+      "explanation": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism"
+    },
+    {
+      "id": "lecture_07-quiz-short-2",
+      "type": "short-answer",
+      "prompt": "What term or concept is emphasized by this prompt: GPU?",
+      "answer": "GPU",
+      "explanation": "Last week: parallelism within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism"
+    },
+    {
+      "id": "lecture_07-lecture-7-parallelism-fill-1",
+      "type": "fill-in-the-blank",
+      "prompt": "Last week: ____ within a single GPU This week: parallelism across multiple GPUs In both cases, compute (arithmetic logic units) is far from inputs/outputs (data).",
+      "answer": "parallelism",
+      "explanation": "The missing phrase appears in Lecture 7: parallelism.",
+      "sectionId": "lecture_07-lecture-7-parallelism",
+      "sectionTitle": "Lecture 7: parallelism"
+    }
+  ]
+}
